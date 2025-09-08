@@ -1,0 +1,501 @@
+OrderID,Customer_Name,Order_Date,Product_Category,Amount,Shipping_City,Shipping_Status
+bdd640fb,Michael_Stephens,2024-04-22,Home & Kitchen,763.45,Edwardsville,Delivered
+23b8c1e9,Heather_Sanders,2024-10-02,Toys,1242.13,Tamiborough,Cancelled
+bd9c66b3,Bryan_Charles,2024-10-25,Books,487.45,Parkerview,Delivered
+972a8469,Matthew_May,2023-11-13,Toys,1345.05,North Ericport,Pending
+17fc695a,Alison_Buchanan,2024-10-16,Toys,590.51,East Marymouth,Pending
+9a1de644,Cameron_Cunningham,2025-05-27,Clothing,26.65,North Jennifer,Delivered
+b74d0fb1,Phillip_Clark,2024-08-14,Books,1359.75,Randyton,Cancelled
+6b65a6a4,Sergio_Murphy,2025-04-07,Books,146.54,Jorgeburgh,Delivered
+47378190,Steven_Smith,2024-04-26,Books,486.36,South Melissaside,Cancelled
+c241330b,Brianna_Anderson,2025-06-28,Toys,1426.33,North Steven,Pending
+6c307511,Christopher_Guerrero,2025-01-15,Home & Kitchen,1427.14,North Alexander,Cancelled
+371ecd7b,Adrian_Tyler,2025-03-18,Books,865.07,East James,Pending
+1a2a73ed,Franklin_Thompson,2023-09-10,Toys,952.1,Watsonland,Cancelled
+5be6128e,Patrick_Fox,2023-09-08,Clothing,678.8,Samanthaland,Cancelled
+43b7a3a6,Karen_Strickland,2023-10-20,Home & Kitchen,447.46,North Jamesmouth,Cancelled
+759cde66,Ashley_Gordon,2024-12-02,Clothing,500.29,North Rebecca,Delivered
+ec1b8ca1,Amanda_Logan,2025-04-03,Home & Kitchen,1012.72,Davidmouth,Delivered
+4b0dbb41,Kelly_Ellis,2025-05-14,Toys,1131.73,East Sandrachester,Pending
+e2acf72f,Amy_Mendoza,2024-07-25,Electronics,1190.15,Crawfordfurt,Pending
+3139d32c,Michael_Henry,2023-08-16,Home & Kitchen,1187.23,Thompsonborough,Delivered
+a9488d99,Angel_Miller,2023-11-08,Clothing,146.42,West Joshua,Pending
+fc377a4c,Ana_Hill,2025-07-25,Toys,747.31,North Christina,Delivered
+ddd1dfb2,Kimberly_Nguyen,2025-05-31,Home & Kitchen,96.28,Lake Kenneth,Cancelled
+7412b293,Kerry_Chavez_Dds,2023-12-04,Electronics,829.44,Andradefort,Pending
+29a3b2e9,Michael_Farrell,2024-07-11,Electronics,668.49,North Joshuaberg,Pending
+ab9099a4,Patricia_Le,2024-07-23,Books,1333.4,Gonzalezhaven,Delivered
+aefcfad8,Jesse_Perez,2023-08-04,Books,533.45,Lake Virginia,Pending
+a28defe3,Jesse_Perry,2024-07-01,Clothing,184.96,South Kimberlystad,Pending
+3eabedcb,Jeffery_Ortega,2024-01-08,Home & Kitchen,223.59,Stephensfort,Cancelled
+451b4cf3,Christian_Leblanc,2025-01-19,Home & Kitchen,1145.34,Robertahaven,Pending
+b02b61c4,Ronald_Davis,2025-07-10,Books,931.8,Paulburgh,Cancelled
+5304317f,Parker_Cain,2023-11-14,Home & Kitchen,161.2,West Carlatown,Delivered
+0e51f30d,Laurie_Hoffman,2025-06-19,Home & Kitchen,135.84,Brianfort,Pending
+ce177b4e,Bryan_Gomez,2024-12-20,Electronics,1055.12,Katiebury,Cancelled
+10f1bc81,Nicole_Parrish,2024-03-25,Books,118.94,North John,Delivered
+9132b63e,Tracy_Burke,2023-12-05,Toys,1235.28,West Amanda,Pending
+366eb16f,Kenneth_Lewis,2025-06-13,Books,1062.98,Port Wendybury,Delivered
+e27a984d,Courtney_Rodriguez,2025-07-28,Toys,131.73,Kellyburgh,Pending
+24933b83,Holly_Farmer,2025-06-14,Electronics,136.93,East Brittany,Delivered
+beb79919,Renee_Bruce,2024-03-03,Clothing,1480.84,Robintown,Delivered
+bf3c4c06,Sabrina_Austin,2023-10-15,Home & Kitchen,568.26,Staceyshire,Cancelled
+956269f0,Allison_Hickman,2024-12-24,Electronics,562.85,New Stacy,Delivered
+ff50bde4,Debra_White,2024-05-09,Home & Kitchen,1221.77,Weaverburgh,Pending
+7e570ddf,Ellen_Morgan,2024-02-14,Clothing,1422.14,Johnsonton,Pending
+dc713d96,Sergio_Knight,2023-10-07,Clothing,1479.89,New Jeffery,Cancelled
+28f49481,Charles_Schultz,2024-05-18,Electronics,1133.22,Smithborough,Pending
+98ae4334,Paul_Lewis,2025-01-01,Clothing,571.22,West Jennifer,Pending
+988c24c9,Glen_Wood,2025-07-06,Toys,134.94,Brianberg,Pending
+405cacec,Paula_Bradley,2024-12-20,Clothing,1168.64,Port Daniel,Delivered
+f143262f,Anthony_Moore,2023-12-10,Home & Kitchen,842.66,Susanstad,Delivered
+1d53434b,Megan_Nelson,2023-09-13,Home & Kitchen,642.7,Willismouth,Pending
+c0398710,Karla_Ramos,2024-06-06,Home & Kitchen,1361.19,Marcusburgh,Cancelled
+5715bd6f,Paul_Wilson,2024-12-01,Home & Kitchen,176.21,Connerfort,Delivered
+287d06ca,Douglas_Gregory,2024-03-28,Toys,744.63,Grantside,Cancelled
+b8db0672,Mr._Andrew_Foster,2025-02-17,Books,27.42,Jeffreyshire,Pending
+f8cda88b,Aimee_Turner,2025-01-28,Electronics,708.92,South Kurt,Pending
+81f76d1c,Chad_Scott,2025-03-12,Home & Kitchen,94.41,Davidtown,Delivered
+a013ac6e,Adam_Burgess,2024-02-01,Clothing,187.57,Rosalesshire,Pending
+81f631d4,James_Padilla,2024-07-02,Home & Kitchen,185.64,East Carriebury,Delivered
+5fb8d16c,Sandra_Drake,2024-12-25,Clothing,977.99,South Donaldland,Pending
+f4188f3f,Scott_Williams,2023-10-13,Clothing,1122.29,West Toni,Pending
+eb2263dd,Thomas_Atkins,2025-01-31,Home & Kitchen,879.87,Lake Nicole,Delivered
+7d154385,Laura_Mckinney,2023-10-16,Toys,1444.38,Port Jennamouth,Delivered
+5cec4eb5,Brian_Smith,2023-08-04,Clothing,569.15,Smithborough,Delivered
+ce88cb2d,Robert_Montgomery,2024-01-16,Clothing,436.28,Lake Carlos,Pending
+3da9c2a9,Tamara_Davis,2024-08-08,Home & Kitchen,1304.93,Kristintown,Pending
+14296c07,Dana_Chapman,2023-10-03,Clothing,343.71,South Samuelchester,Cancelled
+d0e6e660,Jennifer_Collins,2023-11-15,Clothing,1445.94,South Trevor,Delivered
+885f6e66,Gary_Jackson,2024-11-07,Home & Kitchen,28.61,Bellfurt,Pending
+a8e56e0c,Ashley_Hicks,2024-01-26,Home & Kitchen,1455.86,Port Timothyshire,Pending
+2a45c2ab,Hannah_Luna,2024-09-10,Electronics,74.82,East Shannon,Delivered
+9b49bd26,Robin_Young,2025-01-13,Toys,1338.53,West Andrewview,Cancelled
+edcd465e,Craig_Morrison,2024-07-14,Toys,796.91,North Matthewfurt,Delivered
+b09b2a5c,Mary_Thompson,2023-08-11,Clothing,1490.27,Lake Charles,Cancelled
+66245bfa,Kathleen_Webster,2023-08-10,Toys,120.48,West Brookefort,Pending
+5f987c71,Joann_Glass,2025-01-25,Clothing,835.88,South Sherriburgh,Cancelled
+7394988f,Madison_Weber,2024-04-26,Electronics,1455.0,Mooreville,Pending
+1064005c,Lori_Hernandez,2025-04-29,Home & Kitchen,790.05,Jamieborough,Delivered
+8dcdcd03,Jeremy_Turner,2023-11-05,Home & Kitchen,948.46,Terryside,Delivered
+01d74256,Anthony_Romero,2025-06-02,Home & Kitchen,1047.34,Donnaport,Delivered
+0f1259e0,Jesse_Brown,2024-06-27,Toys,687.88,North Brandon,Cancelled
+080aadfb,Angela_Lin,2025-01-24,Electronics,945.72,Hernandezstad,Pending
+839fbc50,Lisa_Hunter,2023-11-14,Toys,881.27,South Christopherfort,Delivered
+7c441fe7,Julian_Conner,2024-08-09,Toys,1353.45,North Anthony,Delivered
+b92da22b,Joanna_Pacheco,2023-09-28,Electronics,78.23,Lake Kelly,Pending
+93829b43,Erica_Alvarez,2024-01-28,Electronics,429.21,South Meganport,Delivered
+7914c120,Antonio_Garcia,2024-05-27,Electronics,1426.85,Ruizview,Pending
+1825bc54,Gwendolyn_Klein,2023-10-12,Electronics,1337.22,Lake Amyburgh,Pending
+5ab33edf,Carrie_Wright,2025-02-21,Home & Kitchen,689.54,Nicolestad,Pending
+dd2467ac,Jeffrey_Mills,2025-04-21,Books,934.65,South Bradley,Pending
+a748dbcf,Jake_Campbell,2023-10-22,Books,423.87,Marshallbury,Pending
+0f844fef,George_Harper,2023-10-23,Electronics,290.85,Anneberg,Cancelled
+ccf3a171,Maria_Jones,2024-04-03,Books,701.53,North Elizabethside,Delivered
+310c0c00,Michael_Mitchell,2024-05-15,Books,537.08,Arellanoshire,Cancelled
+23e2fcb4,Mary_Escobar,2025-06-18,Electronics,880.29,New Bruce,Delivered
+766ecb15,Felicia_Aguilar,2024-03-23,Books,126.34,Cardenaschester,Cancelled
+134c6c92,Gregory_Ponce,2023-11-18,Toys,1462.59,Armstrongbury,Pending
+db20a56e,Jenna_Larson,2024-05-27,Clothing,1480.2,Evansfurt,Delivered
+a6f2f7b8,Emily_Bennett,2025-03-26,Clothing,1050.94,New Ashleyhaven,Delivered
+03c72ba8,Robin_Santiago,2025-04-26,Electronics,809.42,North Stacy,Cancelled
+c0e9ab30,Nancy_Jennings,2025-03-10,Home & Kitchen,471.77,Thompsonburgh,Cancelled
+680ac07a,Maria_Henderson,2025-06-13,Electronics,1223.26,Port James,Delivered
+dd59ba71,Jack_White,2023-11-15,Home & Kitchen,1030.92,South Christianchester,Cancelled
+2a25a888,Travis_Tucker,2024-12-14,Clothing,252.84,Port Courtney,Cancelled
+63f2ae24,Chad_Jones,2025-01-10,Electronics,1368.01,Luisland,Cancelled
+c8fe3ccd,Ashley_Wise,2023-11-22,Toys,1236.29,South Angelaside,Pending
+b253d218,Sophia_Johnson,2023-09-26,Books,1425.94,Melissahaven,Pending
+c88a618e,Ralph_Anderson,2024-09-19,Home & Kitchen,1092.0,Starktown,Cancelled
+7c967f79,Christopher_Guerra,2024-10-14,Books,924.64,Rodriguezberg,Cancelled
+37bb3eec,Rhonda_Martin,2023-08-10,Books,633.79,New Brianna,Pending
+bc594585,Jason_Rhodes,2024-11-20,Electronics,1400.5,North Annaville,Pending
+504867ba,Jeremy_Mitchell,2024-12-20,Books,1301.15,Mikaylastad,Delivered
+7a0ecfea,Joann_Ferguson,2023-12-09,Toys,77.89,Bakerfort,Delivered
+87f7e1fb,Robert_Harrison,2024-07-10,Books,49.79,Johnsonview,Pending
+82010c62,Holly_Valentine,2024-05-02,Electronics,571.52,Thomasfurt,Cancelled
+118a9d29,Mrs._Diane_Reyes,2025-02-15,Toys,1218.43,South Pamelamouth,Cancelled
+dca02eec,Tracy_Montoya,2024-01-16,Clothing,1481.79,North Julie,Cancelled
+f10c718b,Brenda_Wright,2024-12-03,Books,234.66,Pennytown,Cancelled
+94340a03,Shelly_Spencer,2025-03-07,Electronics,895.9,Lisaport,Delivered
+14fcdd54,Ryan_Rosales,2023-11-29,Clothing,578.12,Juanfort,Pending
+90b2b633,Phillip_Nelson,2025-07-18,Clothing,1455.91,Port Jeremyport,Cancelled
+42c18a62,Brittany_Kim,2024-06-18,Home & Kitchen,1265.47,Schroedermouth,Delivered
+506e5a9a,Courtney_Hayes,2024-11-24,Toys,1259.82,Jessicaland,Cancelled
+21813d25,Alexander_Brown,2025-01-18,Books,708.97,South Jason,Pending
+750cab75,Cynthia_Vang,2024-07-12,Electronics,628.68,Figueroahaven,Delivered
+ef8c485b,Alfred_Galvan,2025-06-01,Home & Kitchen,417.94,Lorihaven,Pending
+9f044aed,Marie_Moody,2024-01-19,Toys,94.51,North Larry,Pending
+19985f15,Dustin_Gallegos,2023-10-10,Home & Kitchen,1299.15,Taylorhaven,Delivered
+8181a8cc,Brenda_Thornton,2025-06-30,Toys,1221.93,East Jamesborough,Delivered
+5958a499,Aaron_Miller,2023-10-21,Toys,1500.33,East Antonioton,Delivered
+3e896c64,Ruben_Dunn,2023-11-20,Books,1495.74,Janetview,Delivered
+702cdd20,Kelsey_Rodriguez,2025-03-10,Toys,838.23,Madisonhaven,Delivered
+4d71c366,Eric_Williams,2023-11-07,Home & Kitchen,1156.48,Reidville,Delivered
+ce9e1a11,Riley_Bryant,2024-11-03,Toys,1418.44,East Nathanmouth,Delivered
+aaf91531,Taylor_Carlson,2025-02-21,Books,1276.69,Port Thomas,Cancelled
+ee87905e,Jose_Allen,2024-05-28,Books,379.11,Maxview,Pending
+e0ccedc5,Jeffrey_Mendez,2024-05-03,Home & Kitchen,681.92,West Anthonyton,Delivered
+e3c43657,Jason_Beck,2024-07-02,Clothing,202.98,Port Ashley,Cancelled
+27cb6f2a,William_Jones,2024-04-04,Clothing,1432.27,Port Jeffrey,Cancelled
+35ebd32d,Katie_Mcneil,2025-04-09,Toys,913.85,Lake Jamie,Cancelled
+afffcfd2,Jeanette_Harrison,2023-11-20,Electronics,351.23,Palmertown,Pending
+81627cf1,Veronica_King,2024-02-12,Toys,1011.5,Buckburgh,Delivered
+e87d1c78,Richard_Cooper,2024-03-06,Home & Kitchen,931.67,East Johnnyport,Cancelled
+a2607723,Lori_Ingram,2024-12-16,Home & Kitchen,544.25,Rodneyfurt,Pending
+0b49452d,Evelyn_Williams,2023-10-08,Home & Kitchen,179.73,Stephenborough,Pending
+217d65a0,Robin_Thompson,2024-02-12,Home & Kitchen,1011.31,Turnerhaven,Pending
+295d6fbf,Julie_Dominguez,2024-10-06,Home & Kitchen,785.89,Silvatown,Cancelled
+b4a69f3c,Robin_Brown,2024-11-12,Books,1161.45,Annaport,Delivered
+1ca3c448,Judith_Carter,2024-11-12,Clothing,785.67,Gabriellefort,Cancelled
+b0e6a969,Curtis_Williams,2025-02-14,Home & Kitchen,1280.46,West Vanessamouth,Cancelled
+093923de,Kaylee_Hays,2024-11-17,Electronics,832.98,Joseport,Delivered
+8d7248e2,Dawn_Mullins,2024-03-12,Electronics,846.44,East Zachary,Delivered
+0ab54bde,Howard_Norman,2025-03-31,Electronics,1316.93,North Linda,Delivered
+eededb07,Evelyn_Martinez,2025-01-21,Electronics,611.79,Guerreroberg,Pending
+0a368ce7,Steve_Paul,2023-08-24,Books,210.22,Lake Tylerport,Delivered
+ae9bec36,Jasmine_Beltran,2025-05-23,Electronics,53.39,Rebeccafurt,Cancelled
+5a8aaeca,Jonathan_Glass_Md,2025-05-22,Home & Kitchen,1135.84,Doyleshire,Delivered
+dfed2c43,Monica_Miller,2024-12-27,Toys,934.92,West Jessica,Cancelled
+bfddc3d9,Samantha_Gardner,2025-06-14,Electronics,1059.75,Lake Amanda,Pending
+3c9ad14c,Bobby_Guerrero,2024-03-25,Books,327.87,Knoxstad,Cancelled
+ccc56569,Lance_Simmons,2024-01-10,Books,213.73,Meganside,Cancelled
+698c206f,Heather_Williams,2024-09-09,Electronics,32.18,West Connor,Delivered
+ecab3301,Heather_Bolton,2024-11-17,Toys,532.96,Lake Jonathan,Delivered
+696608aa,William_Gould,2024-09-02,Electronics,889.62,Lake Rachel,Cancelled
+bc2cbb0d,Mark_Cox,2023-12-28,Books,595.04,East Michaelport,Delivered
+28c13091,Meghan_Cisneros,2025-03-06,Clothing,662.45,Frenchmouth,Pending
+61ee411a,Lawrence_Harrington,2024-06-03,Home & Kitchen,1357.92,Jorgeport,Pending
+787f2425,Austin_Osborne,2024-03-20,Books,529.49,Yorkfort,Delivered
+eb1fa9f2,James_Bradley,2024-12-17,Electronics,776.47,Port Cynthiashire,Pending
+d20eac17,Meghan_Rush,2023-09-15,Home & Kitchen,1178.34,South Pamelahaven,Delivered
+39118497,Phillip_Berry,2025-04-03,Electronics,601.45,Port Erinhaven,Cancelled
+6601ddd0,Jennifer_Banks,2025-07-01,Electronics,937.56,Robertberg,Cancelled
+11c58ef0,Brian_Fitzgerald,2025-04-11,Clothing,1295.64,East Matthew,Pending
+59e4b671,Mr._Justin_Green_Iii,2024-02-05,Home & Kitchen,1425.52,Thomasburgh,Delivered
+adf4e62d,Zachary_Mitchell,2024-08-22,Home & Kitchen,229.68,South Marvinburgh,Delivered
+54c63cd8,Katherine_Martinez,2024-05-29,Clothing,1391.35,Cynthiatown,Pending
+e08596db,Jodi_Roach,2023-10-30,Books,743.88,Hillburgh,Cancelled
+94a1875d,Brandon_Fleming,2024-02-07,Electronics,395.35,South Kristen,Pending
+09cb3942,Emma_Reed,2024-08-26,Toys,694.73,East Christinachester,Cancelled
+587ef344,Joshua_Vance,2024-12-11,Electronics,1470.99,Pattersonfort,Delivered
+6fb78271,Michelle_Ho,2024-11-07,Electronics,744.62,Smithside,Cancelled
+1d9af659,Rebecca_Hicks,2023-09-28,Books,500.42,Lake Nathan,Pending
+30a900ad,Curtis_Taylor,2024-09-17,Electronics,954.43,West Katherinehaven,Delivered
+6fa17735,Allison_Spencer,2025-06-24,Clothing,368.38,North Erica,Pending
+ce777f00,Robert_Arnold,2023-08-13,Clothing,123.56,East Heather,Pending
+f0b5156b,Angelica_Parker,2024-05-10,Home & Kitchen,202.56,Larryville,Cancelled
+3270e4fa,Dr._Kelly_Hammond_Dvm,2025-07-29,Toys,201.32,Gordonport,Pending
+f2e9702d,William_Day,2024-04-05,Electronics,236.87,North Madison,Cancelled
+9f871ce7,Michael_Cooper,2023-11-14,Electronics,217.39,Stacymouth,Delivered
+1fe771d6,Penny_Bowman,2024-05-30,Books,965.56,Ryanberg,Cancelled
+81d2c7de,Vincent_Reynolds,2025-06-02,Clothing,281.55,Wendyfort,Delivered
+5380b904,Amy_Martinez,2025-05-16,Toys,525.63,Karenburgh,Cancelled
+8dedf9fb,Christopher_Morris,2024-10-18,Home & Kitchen,1346.94,Smithbury,Pending
+aa38d0a1,Hannah_Everett,2024-06-25,Clothing,716.82,East Jessica,Cancelled
+bf85bf0e,Sarah_King,2024-05-13,Home & Kitchen,1005.33,North Michael,Cancelled
+91b0e1d9,Krista_Martinez,2024-10-01,Books,267.3,South Nancyview,Delivered
+d56f0350,Joseph_Shaw,2025-01-15,Books,297.06,New Virginiaville,Pending
+35ce8841,Todd_Moore,2023-12-16,Electronics,71.4,North Hannahchester,Cancelled
+9b4e2c24,Michelle_Jacobs,2025-03-18,Toys,262.26,Jamesside,Pending
+7118e364,Kristy_Bryan,2024-08-03,Home & Kitchen,425.67,Thomasberg,Cancelled
+82dc4c8e,Angel_May,2025-03-24,Clothing,274.29,Lake Gina,Cancelled
+f5b78cc7,Marilyn_Wang,2023-09-29,Books,142.69,West Robertville,Pending
+a8aa7158,Mark_Jimenez,2023-08-16,Electronics,190.28,Cindyberg,Cancelled
+a9f25336,Donna_Frye,2024-11-02,Electronics,697.18,Rivasville,Pending
+17e8392a,Dr._Michael_Evans,2023-09-25,Home & Kitchen,317.99,West Danielville,Cancelled
+3c20592f,Anthony_Gonzales,2023-08-14,Books,553.35,Gonzalezborough,Delivered
+ce7ae7f6,Mr._Lawrence_Edwards,2024-02-23,Toys,760.72,Marieborough,Pending
+0bd4a990,Morgan_Valencia,2024-01-18,Books,1039.36,Jadeport,Cancelled
+9c7c7377,Bianca_Wood,2023-09-03,Home & Kitchen,69.08,North Amy,Cancelled
+74962764,Emma_Owens,2025-07-20,Home & Kitchen,1201.82,Lake Sarah,Delivered
+935f2b0a,David_Davis,2023-09-19,Books,946.23,Jimmytown,Pending
+624c69b6,James_Gilbert,2025-04-08,Home & Kitchen,132.34,North Maryfort,Cancelled
+25c73c44,Sean_Moore,2024-06-08,Books,1312.35,North Kimberly,Delivered
+e4855aa1,Kenneth_Edwards,2024-08-31,Clothing,1382.83,Lake Jenniferview,Cancelled
+e2add909,Kathleen_Robertson,2024-03-13,Books,101.52,South Vanessa,Pending
+3805f907,Mr._Alexander_Landry_Md,2024-12-04,Books,423.12,Josephton,Cancelled
+b227462c,Cindy_Gomez,2025-02-07,Home & Kitchen,1211.94,Port Greggton,Cancelled
+8eb22579,Johnny_Khan,2024-08-27,Home & Kitchen,1125.59,Michaelmouth,Cancelled
+1f115b76,Julie_Herrera,2025-03-21,Electronics,285.48,Rodgersville,Cancelled
+76f2dbfe,Jessica_Khan,2024-06-21,Electronics,322.48,North Melissaburgh,Delivered
+8f15ba58,Pamela_Diaz,2024-06-28,Clothing,562.6,Michaelmouth,Delivered
+c1581092,Kelly_Lee,2025-01-30,Electronics,732.56,Natalieland,Pending
+d0a44432,Angel_Gordon,2024-06-11,Books,931.85,Lisaburgh,Delivered
+6d3ee1dc,Diana_Hays,2023-10-07,Home & Kitchen,560.27,South Ricardomouth,Delivered
+722764e6,Barbara_Hester,2024-12-13,Electronics,699.79,Maryfort,Pending
+dc8aee30,Robert_Morgan,2024-09-23,Electronics,1124.42,Banksburgh,Delivered
+c074718e,Nicole_Gonzalez,2024-09-24,Clothing,65.17,East Heatherton,Delivered
+46fde062,Kathryn_Williams,2024-11-24,Clothing,386.69,North Robert,Pending
+7c0e8cd8,Gary_Wells,2023-11-30,Books,1073.57,Phammouth,Pending
+709b7d97,Larry_Robertson,2024-03-06,Home & Kitchen,1344.58,New Noah,Pending
+3c07c574,Louis_Martin,2023-10-07,Clothing,773.03,Cherylberg,Cancelled
+e49d681d,Nancy_Evans_Md,2024-03-31,Electronics,803.48,Knappville,Cancelled
+269cd696,Kim_Erickson,2023-10-04,Home & Kitchen,170.21,Alexanderland,Pending
+271e3ee2,Robert_Richardson,2024-09-04,Home & Kitchen,677.26,Dianatown,Pending
+6a34c854,Veronica_Silva,2025-07-19,Electronics,804.23,Lake Morgan,Pending
+7746d0ba,Molly_Watts,2024-01-08,Clothing,371.84,South Dorothybury,Cancelled
+d5385b0e,John_Coffey,2025-04-22,Electronics,411.74,Reedfurt,Cancelled
+c51155ff,Paula_Lane,2023-12-02,Home & Kitchen,572.75,Port Margaret,Delivered
+05000bc6,Lauren_Jackson,2024-09-23,Toys,40.41,North Dawnburgh,Delivered
+9360715f,Lisa_Randall,2024-04-13,Toys,490.48,Christianburgh,Pending
+f1578470,Michael_Johnson,2024-06-02,Books,325.61,Port Travisbury,Cancelled
+63d62a39,Ashley_Smith,2024-11-01,Electronics,498.55,Taraton,Cancelled
+d5f25073,Christian_Vaughn,2024-12-08,Electronics,188.98,New Dawn,Cancelled
+bc10fa52,Reginald_Knapp,2025-03-18,Books,1337.61,Montoyaland,Pending
+e5d6f6e6,Nancy_Brown,2025-05-13,Books,895.1,Wallaceshire,Delivered
+45df16b6,Daniel_Nguyen,2024-12-20,Books,1022.53,Millerfort,Pending
+638c254c,Kelly_Edwards,2025-01-13,Home & Kitchen,1186.56,Stewartfort,Delivered
+cc530e36,Thomas_Peterson,2024-12-15,Electronics,753.3,North Richardton,Delivered
+d72b6108,Raymond_Le,2023-09-24,Home & Kitchen,140.03,Port Christopherport,Pending
+fb10987f,Melissa_Bishop,2024-03-31,Books,810.92,Lake Emily,Delivered
+e82c7d7b,David_Grant,2025-01-27,Electronics,885.04,Michaelton,Delivered
+a9ba5a27,William_Evans,2024-07-08,Home & Kitchen,1121.39,Port Shawn,Cancelled
+6db99102,Daniel_Bush,2025-02-20,Home & Kitchen,653.78,Moranstad,Delivered
+2e85cb21,Gregory_Peck,2025-05-22,Books,200.63,Wilsonbury,Pending
+53cd6268,Denise_Martinez,2024-02-05,Electronics,433.4,West Michaelport,Pending
+56666f9f,Jamie_Baird,2023-09-17,Books,551.58,Jacquelineton,Delivered
+473bd358,Tina_Ballard,2024-02-09,Electronics,973.08,South Donald,Cancelled
+6bebac31,Dwayne_Klein,2023-10-09,Toys,861.1,Rodriguezborough,Cancelled
+78660765,Jeremy_Scott,2025-07-22,Clothing,541.17,North Sarah,Delivered
+0d557b61,Dale_Ryan,2024-07-06,Clothing,1480.65,Lewisborough,Delivered
+39669fa7,Melissa_Taylor,2023-11-02,Clothing,913.26,Danielchester,Pending
+f510ab53,Laurie_Sanchez,2024-07-21,Books,364.03,Lake Maryshire,Delivered
+07f194f9,Kiara_Little,2024-11-21,Toys,162.18,Port Patriciamouth,Cancelled
+d6d7b3b8,Jason_Love,2024-11-18,Electronics,238.3,South Adam,Delivered
+3d114802,Randy_Smith,2023-09-15,Home & Kitchen,377.04,New Savannahshire,Pending
+1d48a071,Tanya_Russell,2024-03-31,Electronics,249.96,Glassburgh,Pending
+770c7798,Sherry_Woods,2025-01-02,Home & Kitchen,288.53,Lake Lisa,Pending
+5e6fea07,Victor_Morris,2025-03-02,Electronics,435.36,South Dianemouth,Pending
+f6b751f7,Susan_Davis,2024-12-27,Toys,268.87,Barnesbury,Pending
+c71d5e60,Kimberly_Sharp,2025-03-01,Home & Kitchen,1346.9,Raymondmouth,Delivered
+4fa03f26,Susan_Thompson,2023-12-18,Books,130.07,Shawnberg,Delivered
+edcb8cb6,Casey_Gillespie,2023-11-04,Electronics,792.15,South Carrie,Delivered
+e87466d7,Jennifer_Simpson_Dvm,2023-08-13,Electronics,622.09,Meganside,Delivered
+f1043785,Tammy_Mcdowell,2025-02-03,Home & Kitchen,1474.49,Jenniferside,Pending
+9793b9b4,Keith_Rodriguez,2023-11-18,Books,177.47,East Jason,Cancelled
+3e2b6091,Mrs._Virginia_Daniels,2025-01-29,Books,603.4,Glendaberg,Delivered
+4d3485c5,Todd_Rosales_Md,2023-08-12,Toys,1455.25,New Amy,Cancelled
+ce3714af,Brian_Martin,2023-12-09,Books,1300.32,Jenniferstad,Delivered
+90e0f4a0,David_Lopez,2024-08-23,Books,1228.14,Aguilarchester,Delivered
+8861fe18,Rachel_Bradley,2024-04-29,Books,394.84,Nataliechester,Cancelled
+11a72609,Casey_Chase,2024-09-13,Clothing,265.17,New Danielfurt,Pending
+033d2bce,Samantha_Robertson,2024-09-08,Toys,1006.95,North Ellen,Delivered
+7d7ddbed,Michael_Lopez,2025-04-03,Electronics,1395.5,West Karen,Delivered
+5cb85aed,Franklin_Wright,2025-05-03,Home & Kitchen,840.22,West Frances,Delivered
+75b17a55,David_Molina,2025-02-13,Electronics,862.35,Port Bryan,Cancelled
+2d174fc9,Elizabeth_Sharp,2024-02-21,Toys,427.74,Jamesside,Pending
+a6846099,Matthew_Schwartz,2023-12-11,Home & Kitchen,1157.24,West Lisaville,Cancelled
+eb6c1016,Bryan_Parker,2024-05-18,Toys,289.24,Lake Deborah,Cancelled
+7701f7bb,Jonathan_Jacobson,2023-11-10,Books,492.86,Youngport,Pending
+97ac6aa8,Emily_Wilson,2025-03-08,Home & Kitchen,644.51,South Paulmouth,Cancelled
+3ed8c56c,Elizabeth_Mendez,2025-04-01,Books,766.97,North Juliaborough,Pending
+4767d76c,Casey_Hernandez,2025-06-12,Electronics,371.75,Greerstad,Delivered
+c01f36bf,Lisa_Perry,2024-02-28,Electronics,181.64,Port Jenny,Pending
+ab0e664e,Kaitlin_Medina,2025-02-23,Home & Kitchen,920.48,West Shane,Delivered
+7e8adee7,Colleen_Wright,2025-06-22,Home & Kitchen,440.63,East Sydneyhaven,Cancelled
+7cd0129d,Shelley_Miller,2023-11-03,Toys,876.69,South Billyview,Cancelled
+4223623b,Michael_Miller,2025-03-25,Toys,240.54,Davidshire,Delivered
+989d9d4a,Amy_Kelley,2025-07-02,Books,727.52,Adammouth,Cancelled
+8e485223,Laura_Hernandez,2023-08-26,Home & Kitchen,804.19,North Eric,Pending
+30e912f2,Joseph_Wilson,2024-04-20,Electronics,87.73,Candiceport,Delivered
+680bac63,Kevin_Davis,2025-04-21,Toys,512.12,Tylerside,Cancelled
+3d85de89,Rhonda_Chavez,2024-07-02,Toys,210.81,Charlesmouth,Delivered
+b63b4dc3,Joyce_Brown,2024-03-02,Electronics,104.94,East Abigail,Pending
+046a0df5,Robert_Cummings,2024-09-13,Toys,1485.79,South Amy,Pending
+6786d506,Robert_Reese,2023-09-22,Books,490.89,Davisbury,Cancelled
+a9f948b2,Amber_Cooper,2024-02-24,Home & Kitchen,1217.42,Lake Martin,Pending
+8db06746,Zachary_Michael,2025-02-07,Electronics,389.98,Kellyhaven,Delivered
+ff233d5f,Timothy_Johnson,2024-10-24,Home & Kitchen,1026.11,Barajastown,Pending
+5a104129,Randy_Cannon,2024-12-03,Toys,1143.43,Lake Michaelbury,Delivered
+4e7ed827,Maria_Fisher,2023-10-02,Toys,898.15,North Felicia,Delivered
+b8a6171f,Janet_Kane_Dvm,2024-08-23,Electronics,713.27,Patrickville,Pending
+be2d740a,Michael_Stanley,2024-07-22,Books,624.25,Scottport,Cancelled
+b0ae8f08,Martha_Bailey,2024-09-03,Clothing,530.4,New Lynnstad,Pending
+bd1531c8,Joshua_Rice,2024-05-09,Electronics,1395.73,Tuckerport,Delivered
+96ef2ad6,Courtney_Smith,2023-09-16,Clothing,1248.33,West Willie,Delivered
+98c7472a,Edwin_Nunez,2024-08-26,Clothing,1448.63,East Teresaside,Pending
+d52721e7,Kim_Morrow,2025-06-01,Books,195.73,Lake Cameronborough,Cancelled
+5c62b3a2,Gregory_Hill,2024-10-17,Clothing,1099.68,Houstonborough,Cancelled
+b540b30e,Molly_Rodriguez,2023-12-11,Clothing,1408.86,Lucasland,Delivered
+0ba6eab9,Jennifer_Miranda,2024-05-15,Books,280.58,North Stephen,Delivered
+4ac9778d,Alexis_Harris,2023-12-04,Clothing,109.6,Benjaminland,Cancelled
+a34b6cf6,Andrew_Harper,2024-02-18,Clothing,1114.96,East Lauraside,Pending
+1a432f0a,Amber_Yang,2025-03-26,Clothing,866.61,New Lorraineview,Delivered
+48ca7651,David_Robinson,2023-10-22,Electronics,1265.04,Hughesfurt,Delivered
+5738811d,Amy_Gordon,2025-06-28,Electronics,218.8,Stewartfurt,Cancelled
+40a26c60,Robert_Dennis,2024-10-22,Electronics,1195.65,New Adamland,Pending
+1d34d08e,Kyle_Chambers,2025-01-08,Books,310.98,Lake Melaniestad,Cancelled
+7de31a51,Eric_Thomas,2025-02-15,Toys,254.39,West Kristinport,Pending
+afbb411a,Connie_Turner,2023-11-01,Clothing,255.3,West Kathymouth,Pending
+cfa701cd,Travis_Hobbs,2024-01-28,Clothing,1224.42,Fostertown,Pending
+15ce6a66,Lori_Simmons,2025-03-01,Books,1001.81,Moorebury,Delivered
+8edddfcd,William_David_Dds,2024-09-02,Clothing,790.0,Lake Peter,Cancelled
+989bc4da,Emma_Butler,2023-08-05,Electronics,545.25,Susanberg,Cancelled
+c693da11,James_Webster,2023-09-07,Toys,1317.75,Ericastad,Pending
+e893be3d,Samuel_Turner,2025-05-31,Home & Kitchen,595.34,New Nancyberg,Delivered
+96a9954f,Renee_Melendez,2025-06-04,Clothing,1227.44,North Adamfurt,Delivered
+9191b363,Tracy_Grant,2023-08-13,Electronics,664.92,West Jasonstad,Cancelled
+f5c9b047,David_Harris,2024-02-09,Home & Kitchen,572.24,South Rebecca,Delivered
+c342bd2b,Tammy_Boone,2023-09-08,Toys,700.01,East Jack,Delivered
+43bfd931,Nathaniel_Lee,2024-08-04,Home & Kitchen,459.63,Jamesburgh,Pending
+3d67cde9,Michael_Morrison,2024-05-12,Electronics,1124.62,Port Karenside,Delivered
+2812859a,Chelsea_Gill,2024-05-27,Home & Kitchen,759.68,Newmanland,Pending
+b07aa066,Kristin_Mendoza,2025-07-18,Books,356.55,Emilyview,Cancelled
+085b15fb,Felicia_Krueger,2023-11-28,Home & Kitchen,1351.09,East Jessicafort,Delivered
+48603b32,Timothy_Hayden,2023-12-21,Clothing,582.59,Michaelbury,Cancelled
+1238d630,Zachary_Mendoza,2025-07-27,Clothing,820.53,West Christineborough,Cancelled
+43b9da13,Larry_Harris,2025-05-31,Books,1361.37,Toddmouth,Delivered
+96fc734d,Kristen_Rowe,2023-08-31,Electronics,940.77,Heatherberg,Delivered
+32a447b2,Joseph_Howard,2024-10-06,Clothing,184.71,Lindseychester,Cancelled
+398d1ca6,Jose_Crawford,2025-04-18,Toys,1411.08,North Lawrence,Delivered
+44007d5a,William_Harrison,2025-07-13,Clothing,945.94,Lake Jodi,Pending
+0f44704f,Suzanne_Wood,2025-02-08,Clothing,509.59,Hillstad,Pending
+9854ce4e,Justin_Walker,2025-03-01,Electronics,218.05,Lake Jessica,Delivered
+ebd34616,Dean_Donovan,2024-12-25,Home & Kitchen,1193.8,Fordstad,Cancelled
+77fc9703,Jennifer_Hernandez,2024-06-24,Clothing,934.56,Tonyville,Delivered
+670acc5c,James_Whitaker,2024-01-25,Books,805.49,Lake Catherine,Delivered
+8a3c3b5e,Mr._Michael_Scott_Phd,2024-04-09,Home & Kitchen,1342.62,Micheleberg,Cancelled
+9918ee46,Maria_Henry,2024-02-12,Toys,1185.71,West Jessica,Cancelled
+bc0a6a5d,Robert_Jackson,2024-06-22,Electronics,236.53,Lake Charlestown,Pending
+069f14f1,Katherine_Stark,2025-07-15,Toys,475.04,Port Bonniefurt,Cancelled
+ac9ed156,Maria_Brown,2025-02-13,Home & Kitchen,380.81,North Andrea,Pending
+964db03f,Ryan_Landry,2024-04-08,Home & Kitchen,1119.17,Valdezberg,Cancelled
+c3c75611,Pamela_Gutierrez,2024-03-01,Home & Kitchen,60.47,Philipshire,Delivered
+9384ec2b,Crystal_Mann,2025-05-06,Toys,859.78,Dennishaven,Pending
+2cd94cbb,Jonathan_Brooks,2023-10-03,Home & Kitchen,1146.75,South Michaeltown,Pending
+7135f221,Mary_Jensen,2024-10-20,Toys,1317.1,Port Tamara,Pending
+ff37d19c,Mr._Aaron_Arnold,2024-05-19,Home & Kitchen,520.29,Port Willie,Delivered
+d0725b5c,Joseph_Hill,2023-11-04,Books,1234.38,Mooreshire,Delivered
+785299f4,Alicia_Li,2024-08-27,Home & Kitchen,175.37,Lake Jessica,Delivered
+5230dfbd,Renee_Browning,2025-01-07,Toys,1271.93,Billyfort,Delivered
+292bd156,Brent_Hernandez,2025-07-04,Clothing,200.49,North Joseph,Delivered
+7ed70ed7,Joseph_Ochoa,2023-09-13,Home & Kitchen,602.56,North Elizabeth,Pending
+668409e3,James_Watson,2023-12-21,Clothing,1198.67,Paulmouth,Delivered
+0964fbbf,Karl_Branch,2024-01-24,Books,233.91,North Tinamouth,Pending
+409d3602,Michael_Abbott,2025-04-19,Electronics,352.14,Lake Tanyaview,Delivered
+c5c5b37a,Shannon_Malone,2024-09-07,Books,1086.84,Bethshire,Cancelled
+d32e6dcd,James_Tran,2023-09-08,Home & Kitchen,1083.53,South Desiree,Pending
+de8ede0b,Adam_Jackson,2024-06-10,Clothing,965.97,Brianaland,Cancelled
+0de051a6,Mr._Richard_Knight_Phd,2023-09-26,Clothing,1044.66,Nicholasbury,Pending
+9f64eeed,Joseph_Williams,2025-06-15,Toys,819.3,Gomezstad,Cancelled
+71299889,Sean_Clay,2024-07-30,Clothing,385.74,Sparkstown,Delivered
+445dcc38,Anthony_Jones,2025-06-06,Toys,525.67,South Gabriel,Delivered
+49bc473f,Stephanie_Elliott,2024-03-10,Electronics,281.13,New Dawnborough,Delivered
+7c16128d,Timothy_Edwards,2025-03-26,Home & Kitchen,1364.32,East Eric,Pending
+a14923c2,Laurie_Goodwin,2025-05-21,Toys,879.9,Lake Jerrymouth,Cancelled
+b5b453ca,Jennifer_Jones,2024-04-01,Electronics,607.87,South Emmafort,Delivered
+03802b70,David_Davenport,2024-04-14,Clothing,699.0,New Evan,Cancelled
+3985fb62,Steven_Rivera,2023-10-10,Clothing,1422.19,Johnsonton,Cancelled
+1d0bc9bd,Brenda_Hinton,2024-10-06,Electronics,239.03,New Brittany,Delivered
+a5d04d53,Kathryn_Mccann,2024-07-23,Clothing,884.13,Lake William,Delivered
+eec259dc,Jeffrey_Roberson,2023-08-10,Electronics,764.4,North Gabriel,Cancelled
+b495db4e,Randy_Friedman,2024-05-16,Toys,921.72,New Susan,Delivered
+7b85179a,Raymond_Johnson,2024-01-06,Toys,37.49,Lake Jessicaport,Delivered
+74eff545,Willie_Henry,2024-03-17,Electronics,1310.18,East Shanefort,Delivered
+30cbd755,Todd_Reynolds,2024-10-14,Toys,1399.59,Jacksonchester,Pending
+bf0d073d,Mary_Miller,2025-04-04,Toys,852.69,Port Brandi,Cancelled
+11df12d7,Rebecca_Marquez,2024-03-27,Toys,1048.68,New Donna,Cancelled
+dabac50d,Christian_Dawson,2025-02-28,Books,1385.25,Garymouth,Pending
+c9a7d91f,Nancy_Stewart,2024-11-29,Home & Kitchen,1064.46,Carlsonland,Cancelled
+00a81de9,Aaron_Parker,2024-02-08,Clothing,237.82,South Paul,Delivered
+d664d264,Derrick_Anderson,2024-07-29,Books,869.31,North Jameshaven,Cancelled
+a8f1e091,Jerry_Peters,2024-05-16,Toys,914.66,Serranoville,Delivered
+7250ee18,Alexander_Gomez,2024-11-05,Electronics,642.56,South Rachel,Pending
+551ac8ea,Kyle_Nguyen,2024-08-21,Toys,1107.99,Port Amandaville,Delivered
+6090d697,Edgar_Hughes,2025-03-26,Home & Kitchen,1402.94,South Donnaside,Cancelled
+de9e3757,Steven_Stein,2025-03-28,Toys,1389.83,Port Erikachester,Cancelled
+3d225c30,Laura_Jackson,2024-01-02,Electronics,682.36,Woodton,Cancelled
+db23aa8c,Charles_Turner,2025-02-22,Home & Kitchen,179.25,Perezfort,Pending
+517400f8,Arthur_Hamilton_Md,2025-07-03,Toys,1478.16,Bellshire,Pending
+e9d68f23,Mr._David_Wright,2024-10-01,Home & Kitchen,1260.67,South Dennisfort,Cancelled
+fd08b32c,Linda_Gonzalez,2025-03-16,Clothing,196.28,Port Christopher,Delivered
+a6eab79e,Eric_Rush,2025-04-13,Clothing,1382.78,Scotttown,Pending
+f6febc0e,Manuel_Brock,2024-02-10,Toys,1306.86,New Alexandrahaven,Cancelled
+f72169bb,George_Ochoa,2023-11-28,Home & Kitchen,783.7,South Diamondmouth,Cancelled
+19b17e80,Valerie_Taylor,2023-08-08,Electronics,891.65,Coxberg,Pending
+1986b4b2,Travis_Harris,2025-07-28,Toys,605.11,Pearsonview,Pending
+03edd1f8,Vincent_Novak,2024-06-17,Clothing,92.11,Melissachester,Pending
+def57689,Michael_Henry,2023-08-22,Clothing,510.03,Cherylfurt,Delivered
+1327f1bc,Dana_Bennett,2024-01-31,Toys,1206.95,South Andrea,Delivered
+43d88870,Jenna_Wilson,2024-09-27,Home & Kitchen,17.4,Whiteside,Cancelled
+65c17795,Leslie_Gardner,2024-04-29,Clothing,507.5,Kingport,Pending
+541cdfcd,Krista_Benton,2024-12-09,Home & Kitchen,603.87,Kimfurt,Delivered
+889b78d5,Michael_Gonzales,2025-05-17,Clothing,811.35,Port Michelle,Pending
+a075e927,Michael_Fuentes,2025-01-23,Clothing,1381.31,Lake Jerryburgh,Cancelled
+7cea2045,Jennifer_Porter,2025-06-15,Books,526.64,East Williammouth,Delivered
+9e11d2cd,Dana_Hopkins,2023-08-11,Clothing,527.55,East Paultown,Delivered
+af34cf65,Rachel_Jones,2024-04-20,Electronics,1109.56,Port Dustinchester,Delivered
+3a3c8a71,Karen_Morales_Dds,2023-08-05,Toys,684.42,North Josestad,Cancelled
+fa745761,Melissa_Stephens,2025-03-15,Toys,345.22,New Benjaminfurt,Pending
+b4323070,Heather_Woodard,2024-12-26,Home & Kitchen,684.75,Mendezhaven,Delivered
+2a96e1e2,Margaret_Miller,2024-05-22,Clothing,220.41,Jenniferton,Cancelled
+0769165f,Mary_Kelly,2025-05-24,Electronics,273.36,Lake Troy,Pending
+0e5dd462,Amanda_Terrell,2025-02-27,Home & Kitchen,753.19,East Melissahaven,Cancelled
+6e417d47,Jennifer_Goodwin,2025-02-18,Books,634.8,Jameshaven,Pending
+697c3923,Jessica_Smith,2024-03-29,Home & Kitchen,1373.85,New Gavin,Cancelled
+2e183554,Jorge_Stone,2023-10-23,Home & Kitchen,550.56,West Johntown,Pending
+9c07a751,Laura_Griffin,2024-01-10,Clothing,875.72,North Wendy,Delivered
+aee1e86b,Raymond_Chapman,2024-09-18,Books,952.73,Gomezfurt,Pending
+9549c931,Haley_Johnson,2024-02-04,Home & Kitchen,30.01,Willishaven,Cancelled
+a34db7c5,Jason_Nixon,2024-06-25,Electronics,999.34,Lake Janeland,Cancelled
+aab612c9,Todd_Thomas,2024-08-20,Electronics,275.82,Jessicaside,Pending
+771ad655,Jesse_Clark,2023-09-19,Toys,1442.74,Michaelview,Delivered
+8beddb12,Mr._Jeffrey_Horton,2023-11-22,Books,232.04,New Sylvia,Delivered
+f1faf665,Eric_Patrick,2025-02-06,Books,628.39,Spearsshire,Pending
+4c955f6a,Samuel_Wong,2024-03-08,Toys,137.69,West Gregoryhaven,Pending
+b0b862ef,Carly_Riggs,2023-10-15,Home & Kitchen,1496.09,New Charlesport,Cancelled
+4d57d880,Christopher_Moore,2023-09-07,Books,758.9,Staceyhaven,Delivered
+da743152,Tina_Hall,2025-07-19,Electronics,897.77,Nancyshire,Pending
+61a11729,Cody_Davidson,2024-01-30,Electronics,110.46,Heatherfurt,Delivered
+4bbe4aff,Allen_Mendez,2025-06-30,Clothing,1128.13,Carrillomouth,Pending
+059dd55d,Kevin_Price,2025-05-21,Books,323.31,Maldonadoshire,Pending
+6553867d,Christine_Goodwin,2024-09-10,Home & Kitchen,1348.83,South Darrenland,Delivered
+dd750e98,Amy_Garcia,2024-06-19,Toys,316.21,Schultzbury,Pending
+f93e08d5,Chelsea_Nguyen,2025-01-29,Toys,294.67,Port Leslie,Pending
+bec39a37,Dennis_Huffman,2025-06-29,Home & Kitchen,64.97,Zacharytown,Cancelled
+e726be23,Margaret_Harper,2024-05-19,Clothing,714.0,Johnland,Pending
+3ae909fe,Laurie_Bailey,2024-07-25,Toys,852.25,Nunezmouth,Pending
+3810ae66,Lisa_Cervantes,2025-03-06,Books,108.42,New Sarahfort,Pending
+402913ec,Elizabeth_Mendez,2023-10-08,Clothing,1166.23,Michaelshire,Cancelled
+c478f6f1,Cesar_Wilson,2024-10-28,Books,686.01,Ianborough,Delivered
+2303f6c6,Clayton_Steele,2023-10-17,Electronics,791.97,Mclaughlinbury,Cancelled
+a0a11839,Jennifer_Taylor,2024-08-30,Clothing,667.35,Port Joseph,Cancelled
+c9e26074,Cody_Reid,2023-11-15,Toys,607.74,East Mary,Delivered
+5d678bb1,Maria_Cooke,2024-12-10,Clothing,844.5,Ericville,Cancelled
+e8dd5e5a,Katherine_Taylor,2025-05-01,Clothing,241.85,North Emmafort,Delivered
+6a5e6920,Jerry_Brown,2024-06-05,Clothing,281.62,Port Mercedeston,Cancelled
+c958e75e,Adam_Taylor,2023-10-01,Clothing,1294.78,Watsonmouth,Delivered
+5da8d6d2,Tracey_Wagner,2024-11-05,Books,1420.45,Villanuevashire,Pending
+45c45a3e,Michael_Perry_Phd,2024-10-18,Electronics,566.82,Travishaven,Cancelled
+e9ff1cae,Bradley_Johnson_Dds,2023-09-21,Home & Kitchen,413.98,Raymondshire,Cancelled
+f7a67b94,Donald_Medina,2024-07-06,Clothing,970.22,North Alicia,Cancelled
+ded255d0,Jim_Newton,2024-12-30,Toys,619.62,Mendozaside,Cancelled
+77e490c7,Krista_Wilson,2023-11-13,Clothing,48.33,New Michaelburgh,Pending
+c1101266,Reginald_Morrow,2024-02-03,Toys,243.21,Brayhaven,Cancelled
+ad238d36,Rodney_Williams,2024-03-17,Books,1077.48,Stewarttown,Pending
+65bcc272,Kimberly_Fritz,2024-02-22,Toys,992.46,Lake Jasonshire,Pending
+8eac0a33,Ronald_Potter,2025-05-25,Home & Kitchen,50.88,West Michaelview,Pending
+6502d6a2,Zachary_Cole,2024-04-04,Electronics,341.29,New Jose,Pending
+1fa382e8,Robert_Gonzales,2025-07-23,Toys,354.86,Thomasmouth,Delivered
+bfbf397b,Patricia_Young_Phd,2025-04-17,Toys,1011.79,Ivanchester,Delivered
+618ae305,Heather_Page,2024-06-04,Electronics,39.87,South Jaclyn,Cancelled
+5f18e583,Carol_Taylor,2025-01-29,Home & Kitchen,165.65,Michaelfurt,Delivered
+78b2b549,Daniel_Brown,2025-05-11,Clothing,1202.57,Shannonshire,Delivered
+f1738856,Douglas_Ryan,2025-02-25,Toys,276.58,New Gina,Cancelled
+9c2e58de,Michael_Roberts,2024-04-13,Electronics,983.25,Lake Josephbury,Cancelled
+a2a9d4d8,Scott_Duke,2024-04-07,Books,365.45,Chaseborough,Cancelled
+b379cb1e,Anna_Estes,2024-07-20,Electronics,158.69,Port Susan,Delivered
+1dde7969,Tamara_Riddle,2024-03-02,Books,372.89,South Linda,Delivered
+0986bbeb,Beth_Cline,2024-02-01,Home & Kitchen,1086.86,South Victor,Cancelled
+1dba1267,Michael_Poole,2023-10-01,Clothing,1285.7,Kristenport,Pending
+899ca782,Megan_Burns,2024-01-08,Electronics,1247.74,Annashire,Cancelled
+5efa9c5b,Debra_Perry,2023-11-17,Toys,602.4,South Coreyburgh,Pending
+b24cc64f,Mark_Beard,2025-03-31,Home & Kitchen,1006.11,East Lisafort,Pending
+965befdf,Jose_Ramirez,2025-03-24,Electronics,315.98,South Julieview,Cancelled
+e2aa7a5d,Jackie_Clements,2024-10-31,Toys,447.36,Michaelside,Cancelled
+d56ce8ea,Aaron_Schroeder,2023-10-27,Electronics,1346.26,Mauricechester,Cancelled
+f065c817,Monica_Ellis,2023-12-02,Books,29.88,West Michelleborough,Delivered
+b0b63bcf,Heather_Brown,2023-10-25,Electronics,137.93,Port Justin,Pending
+71d79665,Claudia_Jordan,2023-12-09,Electronics,320.3,Emilyfort,Delivered
+5cd8fe1a,Derrick_Clayton,2024-07-18,Electronics,50.04,Prestonfurt,Delivered
