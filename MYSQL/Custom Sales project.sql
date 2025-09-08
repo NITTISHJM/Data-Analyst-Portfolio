@@ -1,4 +1,4 @@
--- Create Tables
+-- Create Tables.
 -- PRODUCTS
 CREATE TABLE products (
   product_id SERIAL PRIMARY KEY,
