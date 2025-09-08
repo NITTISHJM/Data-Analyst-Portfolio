@@ -1,0 +1,643 @@
+Customer_Name,Product_Category,Order_Date,Amount,Order_Id
+Megan_Herman,Home Appliance,2025-03-07,745.52,Ord58529
+Caleb_Mercado_Md,Toys,2024-12-20,879.76,Ord60230
+Charles_Carter_Phd,Electronics,2024-08-20,329.04,Ord56714
+Sean_Park,Toys,2024-01-07,70.74,Ord52529
+Ashley_Johns,Toys,2025-03-24,861.58,Ord63472
+Ann_Flores,Furniture,2024-08-20,760.37,Ord31653
+David_Hamilton,Home Appliance,2023-11-20,87.94,Ord85557
+Adam_Cohen,Furniture,2023-08-21,756.49,Ord10293
+Holly_Chen,Toys,2024-02-28,255.73,Ord35310
+Mark_Martinez,Furniture,2024-11-25,774.59,Ord22747
+Luis_Gross,Toys,2024-08-31,103.59,Ord52242
+Justin_Wang,Home Appliance,2025-06-14,492.59,Ord75002
+Monique_Beck,Electronics,2024-06-05,96.11,Ord79602
+Mario_Phelps,Home Appliance,2024-08-23,670.72,Ord82161
+Brandon_Vargas,Home Appliance,2024-12-20,96.11,Ord76791
+Dr._Michelle_Landry_Dvm,Toys,2024-08-11,75.58,Ord25785
+Carl_Tyler,Furniture,2025-02-05,787.47,Ord73123
+Steven_Watkins,Home Appliance,2024-11-03,273.72,Ord63102
+Kevin_Stanley,Electronics,2024-01-17,979.92,Ord41887
+Clinton_English,Electronics,2023-11-11,234.95,Ord68767
+Steven_Barnes,Home Appliance,2025-07-15,933.08,Ord94825
+Kaitlyn_Burch,Furniture,2024-10-23,851.35,Ord42174
+Christopher_Wheeler,Home Appliance,2024-10-01,423.4,Ord83150
+Christopher_Dillon,Electronics,2024-10-15,644.32,Ord71805
+Wesley_Jones,Electronics,2023-10-07,794.72,Ord47178
+Kiara_Smith,Electronics,2024-02-26,522.11,Ord26689
+Marc_Lewis,Home Appliance,2024-12-13,568.3,Ord13151
+Daniel_Stevens,Furniture,2024-01-26,988.89,Ord60449
+Ashlee_Schultz,Electronics,2023-09-10,389.5,Ord31962
+Daniel_Johnson,Toys,2024-01-24,544.66,Ord60349
+Larry_Mathews,Furniture,2023-08-08,485.44,Ord32744
+Kristi_Esparza,Furniture,2024-01-06,844.87,Ord18239
+Kimberly_Morgan,Electronics,2023-11-14,571.62,Ord45800
+Cheryl_Ingram_Dds,Home Appliance,2024-05-10,669.37,Ord66768
+Michelle_Fletcher,Home Appliance,2024-03-16,866.91,Ord54318
+Paul_Mitchell,Toys,2025-07-25,763.04,Ord35904
+William_Vargas,Toys,2024-11-11,820.07,Ord58971
+Elizabeth_Adams,Home Appliance,2023-12-29,12.72,Ord31379
+Patrick_Watson,Home Appliance,2023-10-11,640.41,Ord94311
+Morgan_Scott,Electronics,2025-05-15,80.33,Ord12792
+Steven_Anderson,Electronics,2025-05-02,361.26,Ord18414
+Jennifer_Barajas,Furniture,2024-12-01,603.71,Ord47269
+James_Cox,Furniture,2024-07-02,640.01,Ord43032
+Sierra_Moore,Toys,2025-04-04,455.82,Ord14554
+Keith_Bauer,Electronics,2024-02-15,88.23,Ord93809
+George_Marks,Furniture,2023-09-17,112.14,Ord74814
+Brad_Decker,Furniture,2024-10-25,531.7,Ord52663
+Christopher_Brooks,Furniture,2024-07-05,423.44,Ord80323
+David_Sawyer,Home Appliance,2024-10-26,947.23,Ord43225
+Carla_Aguilar,Toys,2024-04-07,74.66,Ord31691
+Lindsay_Cruz,Home Appliance,2025-05-29,344.04,Ord12047
+Brooke_Munoz,Home Appliance,2025-07-28,140.21,Ord80296
+Samuel_Brown,Home Appliance,2025-05-18,291.21,Ord11769
+Aaron_Davidson,Electronics,2024-08-23,329.93,Ord28575
+Gregory_Adams,Home Appliance,2023-08-19,126.94,Ord16618
+William_Jennings,Electronics,2025-07-03,214.93,Ord28914
+Brittany_Erickson,Furniture,2025-06-28,291.43,Ord41093
+Michelle_Adams,Home Appliance,2023-12-09,474.7,Ord36390
+Carlos_Henry,Toys,2024-04-28,60.95,Ord34029
+Benjamin_Hernandez,Electronics,2025-02-12,352.43,Ord72198
+Brian_Hall,Toys,2024-01-13,107.33,Ord82478
+Paul_Brown,Electronics,2024-02-04,11.56,Ord44534
+Mercedes_Ali,Toys,2023-08-26,995.66,Ord47845
+Jillian_Hansen,Home Appliance,2024-04-30,880.31,Ord69358
+Katherine_Andrews,Toys,2024-08-18,186.67,Ord89045
+Kelly_Miles,Furniture,2025-05-05,532.57,Ord61126
+Maria_Myers,Home Appliance,2024-12-23,579.14,Ord81824
+Alexander_Greene,Furniture,2023-08-19,384.37,Ord80814
+Joshua_Kelley,Home Appliance,2025-03-06,575.15,Ord72600
+Renee_Vance,Home Appliance,2025-06-20,13.49,Ord23034
+Sheryl_Coleman,Furniture,2023-08-22,35.05,Ord79829
+George_Mann,Electronics,2024-02-23,50.93,Ord59918
+Marie_Perry,Home Appliance,2024-08-05,957.87,Ord69126
+Desiree_Lopez,Toys,2024-02-25,577.08,Ord10326
+Mr._Andrew_Franco,Furniture,2024-02-03,270.42,Ord61128
+Christopher_Parker,Electronics,2024-08-17,702.44,Ord92553
+Tyler_Smith,Home Appliance,2025-06-25,537.01,Ord29315
+Emily_Little,Furniture,2025-02-17,451.46,Ord66373
+Vicki_Phillips,Electronics,2025-04-02,191.41,Ord31654
+Sharon_Jones,Toys,2023-09-10,339.7,Ord74472
+Patrick_Meyer,Furniture,2025-02-28,890.68,Ord81663
+Laura_Howard,Home Appliance,2024-09-04,429.64,Ord28872
+Amy_Harris,Toys,2024-06-22,699.94,Ord81100
+Matthew_Martinez_Jr.,Electronics,2024-01-05,717.72,Ord51294
+Kelli_Adams,Toys,2024-05-08,44.19,Ord38291
+Richard_Jones,Home Appliance,2024-08-12,93.6,Ord24546
+Amanda_Howe,Toys,2024-10-18,992.8,Ord66404
+Ashley_Wright,Furniture,2024-10-02,874.91,Ord77101
+Andrew_White,Home Appliance,2024-11-29,63.63,Ord83871
+Mike_Bauer,Home Appliance,2025-04-25,331.93,Ord14767
+Keith_Vincent,Furniture,2025-03-17,880.5,Ord22915
+Jason_Holmes,Electronics,2025-02-11,520.7,Ord14405
+Mark_Ritter,Electronics,2024-12-27,321.31,Ord42974
+Charles_Gonzalez,Toys,2025-01-22,20.95,Ord98836
+Paula_Thomas,Toys,2025-01-11,491.87,Ord19948
+Margaret_Vega,Electronics,2023-10-22,253.18,Ord76617
+Kelly_Thompson,Home Appliance,2025-07-23,75.8,Ord11055
+Mrs._Kari_Fisher_Dds,Electronics,2023-10-08,355.04,Ord55462
+Mr._Dan_Ray_Ii,Furniture,2024-08-14,594.6,Ord58062
+Jerry_Griffith,Home Appliance,2025-04-04,125.47,Ord40966
+Robin_Schultz,Electronics,2023-09-03,25.53,Ord28858
+Janet_Richards,Home Appliance,2024-11-09,878.57,Ord30506
+Samuel_Lee,Home Appliance,2024-01-26,431.67,Ord44221
+Drew_Lopez,Furniture,2023-10-02,623.04,Ord21904
+Michelle_Rich,Home Appliance,2023-09-15,388.62,Ord69492
+Daniel_Hudson,Toys,2024-08-02,620.25,Ord64391
+Brad_Keller,Toys,2023-09-08,468.59,Ord75185
+Sarah_Zavala,Toys,2024-01-30,736.44,Ord62685
+Ricardo_Kim,Toys,2024-10-01,185.94,Ord47059
+Edward_Fuentes,Electronics,2025-02-12,195.75,Ord71824
+Adriana_Bennett,Electronics,2023-11-07,859.96,Ord36939
+Latoya_Sutton,Home Appliance,2025-04-16,439.05,Ord47675
+Christopher_Nelson,Electronics,2024-01-28,420.09,Ord19302
+William_Marshall,Home Appliance,2024-06-23,356.41,Ord62790
+Sarah_Murphy,Toys,2024-08-08,152.28,Ord39395
+Matthew_Patel,Toys,2023-11-10,342.41,Ord71652
+Ray_Miller,Electronics,2025-04-29,226.23,Ord60389
+Dalton_Cook,Electronics,2024-01-06,338.23,Ord83559
+Louis_Allen,Toys,2023-10-09,213.76,Ord81614
+Veronica_Davila,Electronics,2025-04-25,150.57,Ord80518
+Alexander_Simpson,Electronics,2024-11-20,659.14,Ord11910
+Victor_Evans,Furniture,2025-06-21,91.93,Ord86260
+Lisa_Rivera,Home Appliance,2025-03-18,967.92,Ord48491
+Jamie_Macias,Toys,2023-11-07,109.61,Ord74118
+Justin_Middleton,Electronics,2023-08-28,66.81,Ord39847
+Elizabeth_Barnes,Electronics,2024-08-12,583.65,Ord76103
+Blake_Mason,Electronics,2024-04-15,166.64,Ord31150
+Christopher_Small,Home Appliance,2023-12-01,649.83,Ord64681
+Brandon_Bonilla,Furniture,2024-03-29,439.09,Ord96246
+Daniel_Baker,Toys,2023-09-01,829.04,Ord44539
+Monica_Friedman,Furniture,2025-08-02,832.92,Ord41236
+John_Wilkins,Furniture,2024-10-21,329.49,Ord58774
+Heather_Garza,Electronics,2024-11-24,278.5,Ord50327
+Zachary_Johnston,Home Appliance,2024-03-07,808.77,Ord26914
+Andrea_Miller,Home Appliance,2024-12-28,402.45,Ord84012
+Scott_Love,Home Appliance,2024-07-25,707.59,Ord62119
+Cynthia_Ramirez,Electronics,2023-10-20,329.8,Ord93636
+Jill_Stevenson,Home Appliance,2025-05-29,461.47,Ord87432
+Mary_Love,Electronics,2024-02-24,103.57,Ord92111
+John_Fisher,Home Appliance,2023-11-29,527.0,Ord99880
+Dylan_Bray,Electronics,2024-12-25,384.51,Ord78691
+Michael_Carpenter,Electronics,2024-05-11,518.8,Ord13948
+Mary_Turner,Electronics,2023-09-12,515.11,Ord32552
+Timothy_Choi,Toys,2024-12-05,878.08,Ord62840
+Scott_Reese,Home Appliance,2024-03-04,724.07,Ord75882
+David_Foster,Furniture,2024-02-15,900.41,Ord42511
+Amy_Holder,Furniture,2025-01-02,321.27,Ord29217
+John_Morales,Furniture,2024-08-15,427.52,Ord44666
+Angela_Leon,Home Appliance,2025-06-20,115.42,Ord42449
+Cassandra_Woodward,Toys,2023-11-25,945.07,Ord12915
+Nicole_Mendoza,Furniture,2025-04-17,986.13,Ord59532
+Michael_Gilbert,Toys,2025-03-17,893.9,Ord82949
+Lauren_Perry,Furniture,2023-11-10,731.43,Ord49091
+Jacqueline_Pearson,Electronics,2024-10-05,660.94,Ord75640
+Katherine_Cooper,Electronics,2025-05-13,62.21,Ord28368
+Carolyn_Conley,Home Appliance,2024-10-20,733.3,Ord48303
+Natalie_Martinez,Electronics,2024-05-31,200.96,Ord20457
+Kathryn_Richard,Electronics,2024-02-16,749.31,Ord62390
+Eduardo_Castro,Toys,2023-12-28,784.75,Ord63893
+Dr._Melissa_Bowman,Electronics,2024-07-03,684.81,Ord22995
+Katherine_Gonzalez,Toys,2025-04-23,880.63,Ord29514
+Melinda_Yu,Electronics,2023-10-11,868.55,Ord42724
+Alejandro_Young,Furniture,2024-05-05,230.83,Ord40761
+Ronald_Holland,Furniture,2024-09-28,936.28,Ord81766
+Monica_Henson,Home Appliance,2024-05-05,450.1,Ord28816
+Alicia_Castaneda,Toys,2024-03-11,796.55,Ord88623
+Keith_Brown,Furniture,2024-12-31,984.61,Ord90271
+Erica_Young,Electronics,2024-10-20,711.59,Ord32887
+Erica_Anderson,Home Appliance,2025-05-17,472.55,Ord80108
+Abigail_Wagner,Furniture,2025-03-23,821.12,Ord42590
+Sandra_Glass,Electronics,2023-08-31,513.32,Ord15633
+Philip_King,Furniture,2025-03-14,746.73,Ord33758
+Alejandro_Foster,Electronics,2024-06-22,115.79,Ord16561
+Miss_Courtney_Cooper,Electronics,2024-12-06,578.55,Ord72386
+Rebecca_Peterson,Electronics,2024-06-13,941.62,Ord65338
+Charles_Rodriguez,Toys,2025-04-12,61.95,Ord41083
+Nathan_Green,Toys,2024-07-07,504.44,Ord55323
+Katherine_Smith,Electronics,2024-11-26,169.35,Ord35096
+Anthony_Miller,Electronics,2024-09-25,567.78,Ord11733
+Linda_Mccoy,Furniture,2025-01-16,487.98,Ord38990
+Darrell_Scott,Home Appliance,2025-07-23,794.63,Ord72668
+Amy_Allen,Electronics,2025-05-03,645.86,Ord68712
+Tiffany_Thompson,Electronics,2024-09-21,171.63,Ord66186
+Deborah_Collier,Toys,2025-06-05,340.23,Ord52791
+Jonathan_Singh,Home Appliance,2025-05-08,914.44,Ord47958
+Kenneth_Weiss,Toys,2024-06-13,797.83,Ord18651
+Fernando_Cox,Furniture,2025-05-06,462.1,Ord84818
+Andrew_Johnson,Electronics,2023-10-28,748.62,Ord59156
+Kelsey_Guzman,Toys,2025-05-02,168.52,Ord68825
+Brian_Lane,Toys,2025-06-13,907.23,Ord91214
+Kristen_Matthews,Electronics,2025-05-04,26.71,Ord54832
+Ashley_Choi,Electronics,2025-02-08,601.88,Ord63720
+Tracie_Webster,Electronics,2024-10-11,886.09,Ord65579
+Matthew_Johnson,Furniture,2025-04-16,469.39,Ord97629
+Felicia_Lee,Electronics,2024-10-12,682.1,Ord34484
+Mr._Ryan_Lawson,Toys,2024-10-30,270.12,Ord34707
+Amanda_Hansen,Furniture,2024-04-25,822.43,Ord33143
+Eric_Nunez,Home Appliance,2025-04-06,481.14,Ord10547
+Emily_Clark,Toys,2023-09-02,204.23,Ord79240
+Martin_Simpson,Electronics,2024-03-29,757.4,Ord17501
+Dustin_Warren,Electronics,2023-12-21,489.96,Ord23083
+Dawn_Brown,Toys,2023-12-29,715.91,Ord68249
+Ashley_Miles,Electronics,2025-03-08,376.04,Ord69155
+Tammy_Hunt,Home Appliance,2023-09-28,533.97,Ord11147
+Catherine_Nelson,Home Appliance,2023-09-09,80.32,Ord66634
+Rhonda_Nguyen,Electronics,2025-03-27,742.74,Ord60417
+Joshua_Robinson,Toys,2024-06-09,301.18,Ord28670
+Cindy_Fletcher,Electronics,2024-02-11,111.72,Ord75376
+William_Rosales,Toys,2023-09-23,560.18,Ord78434
+Kaylee_Wu_Md,Toys,2023-10-06,535.94,Ord91984
+April_Walker,Furniture,2024-11-13,462.75,Ord50714
+John_Miller,Home Appliance,2025-03-02,54.52,Ord37743
+Alan_Young,Home Appliance,2024-10-28,544.32,Ord12501
+Julia_Zimmerman,Furniture,2024-09-08,647.19,Ord69083
+Peter_Olsen,Electronics,2023-12-20,106.72,Ord40333
+Kevin_Garza,Furniture,2024-10-08,873.09,Ord27469
+Billy_Bolton,Toys,2024-05-16,60.17,Ord87150
+Ashley_Figueroa_Md,Home Appliance,2024-12-25,474.93,Ord31218
+Connie_Garcia,Furniture,2024-02-29,744.41,Ord54989
+William_Cook,Furniture,2024-02-11,76.0,Ord90962
+Peter_Booth,Electronics,2024-04-27,978.92,Ord56710
+Jonathan_Johnson,Toys,2025-07-21,873.39,Ord68639
+James_King,Toys,2024-09-29,457.34,Ord30572
+Christopher_Parks,Furniture,2023-12-02,279.05,Ord81530
+Christopher_Martin,Toys,2025-01-24,169.66,Ord69571
+Lee_Clark,Electronics,2023-11-11,838.67,Ord51158
+Jennifer_Suarez,Toys,2025-07-09,652.5,Ord26998
+Matthew_Carter,Toys,2024-01-05,803.49,Ord70580
+Wesley_Mills,Home Appliance,2024-02-04,34.76,Ord89941
+Robert_Morris,Toys,2025-02-05,823.54,Ord42126
+Gina_Kennedy,Electronics,2024-09-29,851.6,Ord63936
+Kristopher_Baker,Furniture,2024-11-21,883.92,Ord47113
+Christopher_Watkins,Home Appliance,2024-11-20,192.16,Ord66810
+Anthony_Taylor,Toys,2024-05-30,229.17,Ord59443
+Autumn_Deleon,Electronics,2025-06-16,954.55,Ord75857
+Emily_Johnson,Toys,2025-04-24,356.84,Ord91871
+Donna_Ward,Electronics,2023-12-23,838.79,Ord92353
+Kevin_Ellis,Home Appliance,2025-01-23,690.32,Ord13971
+Jennifer_Hale,Furniture,2023-09-01,984.59,Ord73858
+Gary_Schmidt,Electronics,2025-06-11,354.72,Ord71062
+Holly_Barnett,Toys,2025-07-13,936.74,Ord94891
+Michael_Chapman,Toys,2024-10-26,263.08,Ord68238
+Nicole_Love,Electronics,2024-04-28,486.22,Ord86670
+Sara_Hooper,Home Appliance,2024-01-28,566.0,Ord47083
+Adam_Ramos,Electronics,2023-09-15,646.43,Ord72172
+Keith_Mclaughlin,Toys,2023-12-16,459.55,Ord63967
+Robert_Gilbert,Home Appliance,2024-12-03,553.55,Ord78821
+Jason_Frye,Furniture,2024-02-07,559.88,Ord78343
+Heather_Jimenez,Electronics,2024-05-19,425.87,Ord68769
+Karen_Key,Home Appliance,2024-02-03,846.19,Ord19072
+Scott_Chaney,Furniture,2023-12-21,264.53,Ord89472
+Wayne_Cruz,Electronics,2025-01-02,176.19,Ord52377
+John_Tucker,Home Appliance,2023-11-18,709.79,Ord48819
+Janet_Reid,Furniture,2024-05-03,196.6,Ord76900
+Mrs._Kathleen_Hernandez,Furniture,2024-12-21,65.55,Ord39060
+Martha_Medina,Toys,2025-07-03,519.22,Ord43067
+Daniel_Gonzalez,Toys,2023-08-05,18.58,Ord86268
+Devin_Rodriguez,Electronics,2023-08-22,255.32,Ord64659
+Robin_Hill,Toys,2023-11-17,240.21,Ord89637
+Michael_Bray,Furniture,2024-08-24,921.72,Ord20659
+Kevin_Patel,Toys,2024-03-03,358.93,Ord85489
+Rachel_Thomas,Toys,2025-04-23,655.48,Ord16636
+Darlene_Morgan,Electronics,2023-11-13,908.39,Ord83572
+Heather_Frey,Home Appliance,2025-04-24,903.26,Ord80478
+Stephen_Torres,Home Appliance,2025-01-20,474.78,Ord57294
+Julie_Johnson,Home Appliance,2025-01-30,92.02,Ord40063
+Michelle_Shaffer,Electronics,2024-07-31,253.27,Ord17283
+Christine_Carroll,Furniture,2025-06-10,471.28,Ord42471
+James_Andrade,Home Appliance,2023-10-22,406.01,Ord57258
+Clayton_Vasquez,Electronics,2025-06-29,658.81,Ord15307
+Melanie_Nicholson,Home Appliance,2023-12-06,653.46,Ord91680
+Stephanie_Miller,Home Appliance,2023-10-17,14.99,Ord59823
+Timothy_Bauer,Home Appliance,2024-05-24,438.74,Ord37429
+Paul_Ramos,Furniture,2023-12-21,753.17,Ord38925
+Angela_Davis,Furniture,2025-03-16,361.67,Ord67065
+Calvin_Smith,Furniture,2024-02-18,683.64,Ord20079
+Daniel_White,Electronics,2024-01-28,79.94,Ord55081
+Eric_Martinez,Furniture,2024-09-01,716.04,Ord78938
+Scott_Weber,Furniture,2024-05-08,332.67,Ord42774
+Jimmy_Long,Furniture,2025-03-22,336.32,Ord98616
+Anne_Ward,Home Appliance,2023-09-07,923.42,Ord99907
+Daniel_Mooney,Furniture,2024-04-04,444.48,Ord90377
+Janet_Lane,Toys,2024-03-29,82.84,Ord93247
+Christopher_Roberts,Furniture,2024-05-28,87.58,Ord38842
+Shawn_Perry,Electronics,2023-09-26,426.38,Ord34522
+Regina_Duke,Home Appliance,2024-08-24,614.24,Ord83190
+Brianna_Douglas,Electronics,2024-05-21,652.4,Ord17580
+Dr._Sheryl_Fisher,Furniture,2024-02-27,530.16,Ord86512
+Keith_Gilbert,Electronics,2024-10-16,730.3,Ord54514
+William_Morgan,Toys,2024-06-30,349.69,Ord88536
+Stephanie_Hall,Furniture,2023-12-23,850.9,Ord94948
+Corey_Powers,Toys,2025-04-07,195.13,Ord12868
+Caroline_Rodriguez,Toys,2024-11-04,285.92,Ord37106
+William_Rose,Furniture,2024-08-12,199.63,Ord78590
+Cheryl_Smith,Toys,2025-01-04,84.77,Ord15204
+David_Bishop,Furniture,2025-03-22,310.24,Ord25479
+Keith_Hansen,Furniture,2024-02-15,491.56,Ord84689
+Jennifer_Johnson,Furniture,2023-12-01,756.56,Ord73857
+Amy_Griffith,Toys,2024-05-03,221.92,Ord71721
+Aaron_Webb,Furniture,2024-07-07,683.11,Ord11296
+Cynthia_Hicks,Toys,2023-11-01,386.56,Ord42623
+Jason_Murray,Electronics,2024-10-26,301.99,Ord94023
+Roger_Powell,Toys,2024-10-07,452.92,Ord72088
+Adam_Wheeler,Toys,2024-04-24,279.31,Ord47490
+Chris_Brewer,Toys,2024-07-20,170.93,Ord52328
+Robert_Wright,Electronics,2024-03-14,921.66,Ord25533
+Matthew_Terry_Ii,Toys,2025-04-11,57.76,Ord35327
+Danny_Williams,Electronics,2024-03-13,899.93,Ord35131
+Lauren_Johnson,Toys,2025-05-10,128.66,Ord23127
+Donald_Stanley,Furniture,2025-02-23,92.31,Ord26548
+Veronica_Hopkins,Toys,2025-05-28,832.14,Ord31634
+Kimberly_Tran,Electronics,2024-03-08,844.68,Ord15070
+Gabriel_Schneider,Electronics,2024-11-07,294.0,Ord84181
+Howard_Fowler,Toys,2024-10-29,351.78,Ord16105
+Brandon_Cox,Toys,2024-03-28,192.56,Ord10499
+Shannon_Cortez,Toys,2024-08-30,42.16,Ord69223
+Cindy_Galvan,Home Appliance,2025-06-26,363.46,Ord19384
+Janice_Wilson,Home Appliance,2025-05-17,650.21,Ord20786
+Richard_Wu,Home Appliance,2023-10-09,728.27,Ord49479
+Kevin_Miles,Furniture,2025-05-29,485.73,Ord53408
+Kelly_King,Electronics,2023-09-15,418.44,Ord65979
+Miranda_Gates,Electronics,2024-01-28,182.86,Ord46745
+Patricia_Smith,Toys,2025-06-15,875.45,Ord11795
+Anthony_Richards,Toys,2024-08-20,209.35,Ord65419
+Jonathan_Knight,Toys,2025-04-09,777.8,Ord10285
+April_Page,Electronics,2023-09-20,793.73,Ord40739
+Hannah_Bradley,Home Appliance,2023-10-18,126.32,Ord89046
+Jared_Mcconnell,Toys,2024-09-14,18.18,Ord33822
+Brendan_Martinez,Furniture,2024-06-24,596.22,Ord35027
+Cassandra_Martinez,Toys,2024-03-02,970.9,Ord93376
+Marcus_Morse,Furniture,2023-09-03,268.62,Ord20931
+Joel_Nichols,Electronics,2024-02-11,657.32,Ord39127
+Nicole_Wright,Home Appliance,2025-05-06,883.35,Ord99983
+Sara_Cook,Furniture,2025-05-15,759.69,Ord38321
+Christopher_Dunlap,Home Appliance,2024-07-10,365.55,Ord66050
+Valerie_Arroyo,Furniture,2025-04-10,662.91,Ord45438
+Alexa_Bell,Electronics,2024-10-07,588.7,Ord62710
+Brittany_Middleton,Home Appliance,2024-12-22,921.97,Ord27158
+Elizabeth_Johnson,Toys,2024-08-27,661.07,Ord40113
+Krystal_Suarez,Furniture,2024-09-07,391.25,Ord53178
+Dustin_Owens,Home Appliance,2024-05-14,698.33,Ord41962
+Joshua_Stevens,Electronics,2024-08-30,925.37,Ord93746
+Andrea_Gibson,Furniture,2025-07-17,853.05,Ord69286
+Cassandra_Weaver,Furniture,2025-03-04,361.44,Ord15446
+Rebecca_Sandoval,Electronics,2023-08-22,804.67,Ord63578
+Jose_Nolan,Furniture,2024-03-10,413.75,Ord99367
+Jessica_Bryant,Home Appliance,2024-03-06,323.31,Ord11787
+Megan_Gomez,Toys,2024-01-14,829.97,Ord50987
+Angela_Horton,Home Appliance,2023-09-22,905.29,Ord69794
+Aimee_White,Electronics,2023-09-26,565.09,Ord14434
+Tamara_Snyder,Furniture,2024-02-23,890.72,Ord71848
+David_Graham,Toys,2023-09-11,873.64,Ord44697
+James_Salazar,Home Appliance,2025-03-13,902.13,Ord33215
+Brad_James,Toys,2024-10-29,907.07,Ord74080
+Kristen_Gould,Toys,2025-07-05,306.77,Ord30333
+Brooke_Potter,Home Appliance,2024-04-30,875.28,Ord46842
+Karen_Walton,Toys,2023-11-07,85.98,Ord48964
+Samuel_Thornton,Toys,2025-06-21,448.5,Ord75857
+Susan_Mitchell,Electronics,2024-06-15,20.2,Ord64346
+Elizabeth_Evans,Toys,2025-05-23,315.07,Ord31802
+David_Allen,Toys,2024-06-06,878.64,Ord72978
+Dylan_Rodriguez,Furniture,2024-09-15,465.01,Ord29930
+Justin_Sanchez,Furniture,2025-03-08,471.88,Ord71645
+Nicholas_Miller,Toys,2024-02-16,484.57,Ord66471
+Robert_Shea,Electronics,2025-03-22,320.13,Ord43979
+Megan_Keller,Electronics,2025-03-30,939.15,Ord92605
+Drew_Barrera,Furniture,2023-08-15,819.02,Ord79646
+Deanna_Warren,Toys,2023-12-23,899.26,Ord92381
+Meredith_Rogers,Furniture,2025-02-05,45.82,Ord95625
+Melvin_Miller,Furniture,2024-10-16,236.44,Ord27272
+Desiree_Jones,Toys,2024-10-19,555.02,Ord98009
+Patrick_Robertson,Toys,2024-07-01,54.45,Ord82889
+Alexander_Harmon,Electronics,2024-10-02,87.68,Ord59141
+Brian_Garcia,Electronics,2025-04-23,763.53,Ord61899
+Marvin_Watts,Furniture,2024-07-20,709.02,Ord13845
+Laura_Owens,Furniture,2024-02-05,412.01,Ord58226
+Joseph_Wade,Electronics,2024-05-12,230.63,Ord63358
+Ronald_Rice,Furniture,2024-12-11,437.4,Ord97296
+Justin_Austin,Home Appliance,2025-07-30,437.54,Ord48721
+Steven_Bowen,Furniture,2025-06-11,428.38,Ord13256
+Michael_Dominguez,Toys,2025-06-21,345.44,Ord58108
+Felicia_Hill,Home Appliance,2024-12-13,655.36,Ord34686
+Bobby_Lewis,Electronics,2024-05-13,551.97,Ord82903
+Daniel_Brown,Electronics,2023-12-12,361.34,Ord54640
+Joshua_Page,Electronics,2023-12-28,159.76,Ord59160
+Joshua_Martin,Electronics,2024-08-05,624.98,Ord17717
+Sharon_Delacruz,Toys,2024-01-04,102.95,Ord13388
+William_Miller,Toys,2024-03-06,920.98,Ord26496
+Ashley_Schneider,Toys,2025-05-31,986.91,Ord32508
+Michael_Solis,Home Appliance,2024-12-04,775.67,Ord47310
+Tanner_Walker,Toys,2024-12-26,910.66,Ord49403
+Catherine_King,Toys,2025-01-12,842.56,Ord22202
+Shannon_Delgado,Electronics,2024-08-17,25.91,Ord94205
+Heather_Velasquez_Dds,Home Appliance,2024-09-06,417.31,Ord68100
+Nicole_Campbell,Home Appliance,2025-04-04,710.94,Ord60973
+Ryan_Johnson,Furniture,2024-08-15,616.5,Ord56166
+Diamond_Peters,Toys,2023-11-04,997.36,Ord69650
+Mary_Scott,Home Appliance,2024-08-27,305.44,Ord87455
+Emily_Torres,Furniture,2023-10-15,192.27,Ord26845
+Juan_Lynch,Furniture,2023-08-31,129.05,Ord12372
+Carla_Bennett,Furniture,2023-11-30,573.63,Ord16400
+Jason_Gonzalez,Electronics,2023-11-14,139.5,Ord56551
+Garrett_Thompson,Home Appliance,2025-04-04,996.58,Ord92108
+Michelle_Edwards,Furniture,2024-03-01,915.69,Ord26901
+Katherine_Cook,Furniture,2025-07-27,320.28,Ord58278
+Kathy_Lawrence,Toys,2024-08-24,764.22,Ord11455
+Monica_Perez,Furniture,2024-06-06,178.31,Ord19168
+Gerald_Hernandez,Furniture,2024-04-13,750.78,Ord13338
+Mark_Allen,Electronics,2025-08-02,813.38,Ord32893
+Michelle_Brown,Electronics,2024-02-15,152.06,Ord26607
+Susan_Rosales,Home Appliance,2024-04-24,443.69,Ord45268
+Javier_Palmer,Electronics,2023-08-18,870.16,Ord17306
+Carly_Lara,Furniture,2024-04-29,145.34,Ord44397
+Ashley_Adams,Furniture,2024-06-21,305.45,Ord56479
+Stephanie_Cook,Toys,2025-04-10,226.76,Ord94189
+William_Davis,Electronics,2025-07-25,95.48,Ord58440
+Veronica_Smith,Electronics,2025-02-27,179.61,Ord14122
+Paul_Patterson,Electronics,2025-05-23,424.39,Ord31728
+Kristy_Johnson,Toys,2023-10-14,473.09,Ord17371
+Michelle_Morgan,Electronics,2025-06-28,372.51,Ord83514
+Benjamin_Romero,Furniture,2024-12-26,480.99,Ord71722
+Jeremy_Wells,Toys,2025-07-05,797.4,Ord17018
+Karen_Colon,Home Appliance,2025-04-23,431.42,Ord53411
+Jamie_Rogers,Furniture,2024-01-28,309.55,Ord33587
+Brian_Good,Home Appliance,2024-10-11,770.14,Ord15462
+Steven_Andrade,Electronics,2024-06-04,460.16,Ord41164
+Jonathan_Thomas,Home Appliance,2025-06-18,886.4,Ord40995
+Shirley_Harrison,Electronics,2025-06-07,321.56,Ord38237
+Charles_Todd,Home Appliance,2025-01-07,663.17,Ord40387
+Charles_Martinez,Toys,2025-04-11,618.66,Ord43471
+Karen_Sampson,Toys,2025-05-18,286.61,Ord78141
+Rebecca_Weaver,Home Appliance,2024-08-17,154.22,Ord75419
+Larry_Contreras,Electronics,2024-07-17,621.45,Ord85480
+James_Keller,Electronics,2024-05-09,142.09,Ord80204
+Nicole_Page,Home Appliance,2025-06-17,844.0,Ord92035
+Richard_Howard,Furniture,2024-05-18,125.15,Ord90459
+Joshua_Wyatt,Home Appliance,2025-05-21,986.8,Ord80535
+Sharon_Dodson,Electronics,2025-07-14,316.99,Ord54289
+Joseph_Ramsey,Home Appliance,2025-05-20,104.43,Ord65450
+Jared_Steele,Furniture,2024-10-14,550.21,Ord98486
+Stephen_Scott,Electronics,2024-08-07,994.56,Ord35836
+Thomas_Brown,Toys,2024-08-08,294.82,Ord98863
+Sharon_Gonzalez,Toys,2024-06-24,189.41,Ord80665
+Charles_George,Furniture,2024-06-13,235.12,Ord28479
+Walter_Richardson,Home Appliance,2025-06-12,220.47,Ord56780
+Christopher_Cervantes,Toys,2023-10-22,78.14,Ord45264
+David_Baker,Toys,2023-12-24,583.77,Ord74870
+Julie_Wolfe,Home Appliance,2025-03-14,714.03,Ord37568
+Jonathan_Bradley,Toys,2024-07-29,496.45,Ord92098
+Clayton_Brown,Electronics,2024-07-10,336.41,Ord19416
+Danielle_Thornton,Electronics,2025-06-23,553.1,Ord47336
+Charles_Whitaker,Home Appliance,2024-02-22,884.53,Ord66639
+Thomas_Everett,Toys,2023-12-30,460.41,Ord70258
+Alyssa_Shepherd,Toys,2025-02-12,394.74,Ord35594
+Lisa_Rhodes,Furniture,2024-03-06,855.75,Ord52919
+Whitney_Baker,Furniture,2025-07-11,730.75,Ord80871
+Rhonda_Arroyo,Home Appliance,2024-09-07,631.33,Ord73316
+Tara_Perez,Electronics,2025-06-01,43.08,Ord63875
+William_Berger,Furniture,2024-01-12,343.11,Ord41030
+Jenny_Powell,Toys,2024-03-28,545.15,Ord48600
+Jeremy_Perry,Furniture,2024-12-17,987.98,Ord19139
+Doris_Vaughn,Toys,2025-07-23,60.09,Ord54237
+Kayla_Leonard,Toys,2024-05-08,62.43,Ord16406
+Matthew_Cruz,Home Appliance,2023-10-24,14.1,Ord27190
+Mrs._Eileen_David,Home Appliance,2023-11-24,423.28,Ord46734
+Olivia_Hudson,Furniture,2024-01-23,242.77,Ord87771
+Jeffrey_Wilson,Electronics,2024-05-21,863.27,Ord35605
+Andrew_Lowe,Toys,2024-09-06,239.39,Ord27682
+Benjamin_Mercer,Toys,2024-07-31,48.94,Ord40216
+Kristen_Shaw,Electronics,2025-03-31,298.03,Ord68543
+Rose_Smith,Electronics,2023-09-24,613.25,Ord95967
+Susan_Ward,Furniture,2024-09-22,801.89,Ord30635
+Marie_Jones,Electronics,2024-10-15,130.18,Ord34214
+Jesse_Berry,Toys,2025-04-13,590.81,Ord10347
+Wendy_Roberson,Toys,2024-09-02,266.24,Ord31320
+Linda_Anthony,Furniture,2024-06-06,651.15,Ord19914
+Julie_Johnson,Electronics,2024-12-12,881.15,Ord88756
+Matthew_Richardson,Electronics,2024-07-16,751.58,Ord13564
+Juan_Mitchell,Furniture,2024-05-09,664.34,Ord74105
+Elizabeth_Huynh,Electronics,2024-12-29,148.66,Ord48618
+Denise_Salazar,Electronics,2025-05-25,27.49,Ord76035
+Cheryl_Walker,Electronics,2024-12-14,734.37,Ord52420
+Aaron_Madden,Furniture,2025-03-16,821.48,Ord71848
+Jeremy_Perez,Furniture,2025-08-03,228.18,Ord15892
+Sarah_Phillips,Toys,2025-04-20,912.36,Ord97195
+Diana_Molina,Furniture,2025-03-11,93.62,Ord29737
+Gerald_Stone,Toys,2024-09-19,752.12,Ord90676
+Gina_Hanna,Electronics,2025-03-31,876.09,Ord33410
+David_Woodward,Electronics,2025-02-08,829.42,Ord79707
+Andrea_Martinez,Electronics,2024-11-18,869.58,Ord51123
+Brandy_Dickson,Furniture,2024-06-14,548.37,Ord39926
+Stephanie_Johnson,Home Appliance,2024-11-12,227.73,Ord72513
+Juan_Daniels,Home Appliance,2024-11-20,176.99,Ord23419
+Garrett_Young,Home Appliance,2024-02-29,863.29,Ord54216
+Mark_Hunt,Toys,2024-12-22,477.0,Ord91912
+Kristi_Rush_Md,Electronics,2024-08-18,994.52,Ord88340
+Ronald_Allen,Electronics,2024-01-29,246.03,Ord39942
+Alyssa_Barker,Home Appliance,2025-02-15,466.64,Ord51635
+Eric_Barton,Electronics,2024-05-25,191.53,Ord81037
+Chad_Gomez,Toys,2024-10-13,112.76,Ord80880
+Tony_Contreras,Home Appliance,2024-01-03,769.39,Ord84877
+James_Oneill,Home Appliance,2024-10-15,792.05,Ord40692
+Brittany_Wilkins,Furniture,2024-07-04,114.1,Ord47185
+Laura_Blankenship,Furniture,2023-12-09,159.78,Ord37175
+Martin_Gomez,Electronics,2023-08-13,766.9,Ord28595
+James_Hunter,Home Appliance,2024-11-11,383.58,Ord62804
+Michael_Williams,Electronics,2024-06-22,59.74,Ord21097
+Kristina_Ramirez,Toys,2025-04-30,753.04,Ord29786
+Elizabeth_Rogers,Furniture,2024-12-16,562.5,Ord15639
+Richard_Gonzalez,Toys,2024-08-06,408.58,Ord13701
+Anna_Steele,Home Appliance,2024-10-28,586.89,Ord32418
+Shannon_Miller,Electronics,2023-11-03,849.29,Ord92881
+Laurie_Lewis,Toys,2023-09-19,83.7,Ord25386
+Christina_Garcia,Furniture,2024-04-02,844.41,Ord46907
+Brian_Bowers,Electronics,2024-07-20,392.34,Ord86048
+Susan_Powell,Home Appliance,2023-11-10,597.25,Ord60755
+Nicholas_Knox,Toys,2024-10-14,431.19,Ord23259
+Cory_Taylor,Toys,2024-10-15,395.45,Ord97056
+Pamela_Waters,Toys,2024-01-24,843.26,Ord20286
+Kyle_Richards,Toys,2025-08-02,223.44,Ord48807
+Katelyn_Maxwell,Toys,2024-07-12,315.47,Ord11674
+Angela_Barr,Toys,2025-01-12,581.47,Ord64126
+Tiffany_Williams,Electronics,2025-07-11,238.56,Ord77341
+Robert_Tucker,Furniture,2023-11-21,773.95,Ord65328
+Heather_Thompson,Home Appliance,2024-01-11,178.04,Ord69962
+Daniel_Bruce,Furniture,2025-04-20,305.05,Ord44310
+Angel_Rasmussen,Electronics,2024-08-07,262.55,Ord54311
+Kayla_Jimenez,Furniture,2024-03-18,470.81,Ord46625
+Brenda_Beck,Home Appliance,2025-05-20,886.14,Ord87283
+Donna_Gates,Electronics,2024-03-03,489.2,Ord54495
+Edward_Sanchez,Toys,2024-10-09,330.66,Ord88163
+Ronald_Flores,Furniture,2025-06-10,292.9,Ord73453
+Shelby_Davis,Furniture,2024-10-14,204.51,Ord60020
+Felicia_Lee,Toys,2024-08-16,159.67,Ord78796
+Brendan_Roberts,Furniture,2025-01-08,250.35,Ord73738
+Sheila_Martin,Home Appliance,2024-04-14,774.39,Ord33002
+William_Brooks,Home Appliance,2024-12-27,86.44,Ord68113
+Crystal_Evans,Toys,2023-09-11,131.28,Ord17405
+Bonnie_Weber,Furniture,2024-06-04,722.73,Ord92311
+Melanie_Lewis,Toys,2025-05-21,838.17,Ord20276
+Mary_Becker,Home Appliance,2024-07-28,421.08,Ord13753
+Tiffany_Fox,Electronics,2025-02-17,469.94,Ord51853
+Alexis_Kim,Toys,2025-05-03,515.9,Ord28440
+Ryan_Gonzales,Furniture,2024-07-09,579.82,Ord96219
+Matthew_Henry,Furniture,2023-10-18,561.42,Ord67290
+Laura_Dunn,Electronics,2024-04-30,269.83,Ord19775
+Kristen_Jenkins,Furniture,2024-01-16,550.39,Ord10141
+Bruce_Lopez,Home Appliance,2024-07-15,930.58,Ord61516
+Michael_Gardner,Home Appliance,2023-12-20,853.92,Ord29349
+Bridget_Collins,Furniture,2024-05-16,824.58,Ord29182
+Katherine_King,Electronics,2025-06-02,506.15,Ord73500
+Rebecca_Marshall,Toys,2024-08-01,739.76,Ord31843
+Rebecca_Mercer,Furniture,2025-07-23,384.02,Ord68401
+Jennifer_Walters,Toys,2024-12-07,466.81,Ord89345
+Alexander_Lucas,Electronics,2023-09-13,173.93,Ord85853
+Danielle_Campbell,Electronics,2023-09-13,603.71,Ord91875
+Susan_Webb,Furniture,2024-09-09,123.77,Ord14632
+Eric_Ferguson,Home Appliance,2024-07-18,958.47,Ord47141
+Rachel_Hunter,Toys,2024-11-28,813.94,Ord31173
+Dennis_Velazquez,Home Appliance,2024-06-30,462.69,Ord72259
+Brianna_Stevens,Furniture,2024-04-16,817.96,Ord40053
+Michelle_Reed,Furniture,2024-09-06,196.46,Ord86318
+Angela_Lane,Electronics,2025-06-14,353.06,Ord11132
+Jason_Rivera,Electronics,2025-02-16,946.57,Ord15648
+Tammy_Duncan,Toys,2024-03-08,157.88,Ord65140
+Carla_Barrett,Home Appliance,2024-02-10,296.52,Ord55878
+Connor_Young,Furniture,2025-02-14,862.08,Ord28058
+Jacob_Santos,Home Appliance,2025-05-10,807.82,Ord68564
+Barry_Rosales,Furniture,2024-07-03,871.98,Ord95709
+Julie_Flores,Electronics,2023-09-02,616.31,Ord17315
+Robin_Harrison,Furniture,2025-03-03,256.09,Ord90467
+Joshua_Morgan,Toys,2025-03-28,183.15,Ord41199
+Karen_Richards,Electronics,2024-05-26,787.91,Ord75503
+Philip_White,Electronics,2025-01-30,947.1,Ord19722
+Laura_Wagner,Home Appliance,2024-05-06,44.38,Ord94526
+Judy_Howard,Electronics,2024-03-21,599.81,Ord67241
+Danielle_Brown,Electronics,2024-09-16,176.75,Ord58711
+Michael_Lang,Toys,2023-11-13,99.86,Ord28972
+Emily_Yu,Toys,2024-10-05,244.45,Ord39684
+Eric_Perry,Home Appliance,2024-04-02,862.28,Ord40734
+Jeremy_Wiley,Home Appliance,2024-02-24,487.47,Ord98345
+Christine_Johnson,Electronics,2023-09-12,10.61,Ord68818
+Stephen_Roman,Furniture,2024-07-30,854.25,Ord50323
+Clayton_Andrews,Home Appliance,2024-03-27,211.88,Ord71832
+Ian_Cook,Electronics,2025-06-25,575.76,Ord65882
+Lauren_Proctor,Furniture,2025-07-18,473.5,Ord75510
+Hannah_Barnett,Home Appliance,2024-03-17,22.89,Ord66107
+Carol_Salinas,Furniture,2024-02-20,596.34,Ord55612
+Catherine_Floyd,Electronics,2025-03-02,443.52,Ord36095
+David_Briggs,Home Appliance,2024-01-21,488.18,Ord90234
+John_Rivas,Electronics,2024-03-05,125.35,Ord88922
+Holly_Hayes,Home Appliance,2023-12-29,885.22,Ord69396
+Amy_Roberts,Home Appliance,2024-08-28,29.09,Ord37366
+Heather_Mccoy,Electronics,2023-12-31,148.09,Ord51805
+Vincent_Bryan,Furniture,2023-11-10,500.74,Ord32459
+Mr._Michael_Gomez_Phd,Electronics,2025-07-11,811.08,Ord42308
+James_Cuevas,Electronics,2024-08-23,420.82,Ord57182
+Kelly_Smith,Furniture,2023-08-27,27.68,Ord54163
+Reginald_Davidson,Toys,2024-11-27,844.33,Ord85161
+Amy_Johnson,Home Appliance,2023-10-07,766.51,Ord92892
+James_Butler,Electronics,2023-12-08,542.17,Ord84968
+Logan_King,Furniture,2025-02-19,480.4,Ord41235
+Daniel_Martinez,Toys,2023-12-13,281.76,Ord40425
+Megan_Pena,Toys,2024-05-20,462.67,Ord59134
+Michael_Warren,Toys,2023-10-28,603.32,Ord16761
+Kelly_Rivers,Toys,2024-12-14,649.57,Ord98305
+Philip_Shelton,Toys,2024-02-04,686.65,Ord16980
+Jason_Copeland,Furniture,2024-04-20,430.38,Ord67905
+Caleb_Doyle,Toys,2025-07-16,391.27,Ord57132
+Blake_Smith,Toys,2023-09-08,431.87,Ord92473
+Lisa_Cannon,Toys,2024-09-20,309.93,Ord15894
+Timothy_Washington,Home Appliance,2024-09-24,276.55,Ord93417
+George_Rios,Home Appliance,2023-09-20,112.91,Ord14627
+Mark_Henry,Home Appliance,2024-02-12,478.73,Ord65224
+Joseph_Arroyo,Toys,2024-01-16,362.89,Ord18992
+Steven_Davidson,Electronics,2025-02-09,515.24,Ord35813
+Barbara_Hughes,Furniture,2023-08-06,466.99,Ord77035
+Gary_Campbell,Toys,2024-04-28,617.45,Ord79448
+Miguel_Lambert,Toys,2024-04-12,186.45,Ord20560
+Cristian_Russell,Electronics,2024-11-27,651.53,Ord38766
+Tricia_Williams,Toys,2025-02-11,756.32,Ord31756
+Olivia_Johnson,Toys,2025-01-04,385.57,Ord46489
+Eric_Fletcher,Toys,2024-09-22,937.78,Ord53194
+Kevin_Garza_Dds,Toys,2025-01-18,660.95,Ord41543
+Patrick_Wyatt,Toys,2024-05-14,444.81,Ord96235
+Eric_Wilson,Toys,2024-01-16,213.75,Ord81759
+Denise_Brandt,Toys,2023-10-02,893.05,Ord69293
+Kristin_Valenzuela,Furniture,2025-03-09,618.24,Ord58599
+Howard_Stevens,Electronics,2025-06-16,701.59,Ord39234
+Calvin_Tyler,Electronics,2024-09-29,98.42,Ord10041
+Taylor_Foster,Furniture,2023-12-03,256.0,Ord73532
+John_Davidson,Furniture,2023-10-25,374.26,Ord20263
+Samantha_Herman,Electronics,2023-11-02,638.13,Ord59944
+Kimberly_Pittman,Home Appliance,2025-01-26,221.96,Ord44777
+Joshua_Wright,Toys,2025-04-08,63.38,Ord62925
+Joshua_Lee,Furniture,2024-04-26,184.15,Ord79955
+Robert_Patel,Furniture,2025-07-30,430.05,Ord89538
+Joseph_Hunt,Electronics,2025-07-17,340.16,Ord80559
+Alejandro_Blake,Home Appliance,2024-12-07,207.91,Ord77683
+Melissa_Collins,Toys,2024-06-29,23.56,Ord31247
+Debbie_Stark,Toys,2025-08-04,19.68,Ord18800
+Susan_Gomez,Home Appliance,2025-05-13,447.48,Ord83226
